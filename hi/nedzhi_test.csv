@@ -1,0 +1,2975 @@
+text,intent
+wake me up at five am this week,alarm_set
+quiet,audio_volume_mute
+pink is all we need,iot_hue_lightchange
+and the darkness has fallen,iot_hue_lighton
+olly turn the lights off in the bedroom,iot_hue_lightoff
+it's dirty here make some noise,iot_cleaning
+hoover the hallway,iot_cleaning
+i want the status on my screen brightness,general_quirky
+what's up olly,general_greet
+what's the time in australia,datetime_query
+olly tell me the time in g. m. t. plus five,datetime_convert
+cancel my seven am alarm,alarm_remove
+what alarms i have set,alarm_query
+tell me about my alarms,alarm_query
+i like senatra songs,music_likeness
+set lights brightness higher,iot_hue_lightup
+tell me today's date,datetime_query
+what date is it today,datetime_query
+could you order sushi for tonight dinner,takeaway_order
+what's the week's forecast,weather_query
+what's this week's weather,weather_query
+tell me the weather this week,weather_query
+send a giggle my way,general_joke
+olly tell me a joke,general_joke
+what's the date,datetime_query
+order a takeaway,takeaway_order
+i like this song,music_likeness
+play it again please,play_music
+lower the lights,iot_hue_lightdim
+can they provide takeaway,takeaway_query
+can they do delivery,takeaway_query
+do they deliver home,takeaway_query
+olly do they deliver home,takeaway_query
+set wake up thursday seven am,alarm_set
+tell me some business news,news_query
+tell me international news,news_query
+play my rock playlist,play_music
+turn on my playlist and play third song in the queue,play_music
+mute volume,audio_volume_mute
+what time is it,datetime_query
+delete the alarm i just set,alarm_remove
+how is the weather like today,weather_query
+should i bring an umbrella tomorrow,weather_query
+play music from my rock list,play_music
+i feel like jazz right now how about you,play_music
+olly play a good track from my favorite jazz player,play_music
+i can't hear you,audio_volume_up
+i can barely hear you,audio_volume_up
+let's have the lights blue,iot_hue_lightchange
+what is today's forecast for berlin,weather_query
+what is the exchange rate of us dollar to pound sterling,news_query
+light up the lights in the kitchen,iot_hue_lighton
+start a vacuum cleaner,iot_cleaning
+turn on the vacuum cleaner,iot_cleaning
+play a nirvana playlist,play_music
+shuffle songs by coldplay,play_music
+what is the weather,weather_query
+what day is new year's eve this year,datetime_query
+please be quiet for another hour,audio_volume_mute
+do not speak today,audio_volume_mute
+tell me the weather in barcelona in two days from now,weather_query
+disable my okug,iot_wemo_off
+enable my plug,iot_wemo_on
+seven years,play_music
+what is the weather condition in new york,weather_query
+i wish to know the weather in san fransico,weather_query
+will it be rainy tomorrow,weather_query
+will it rain tomorrow,weather_query
+what day of the week is first april,datetime_query
+what is the current time,datetime_query
+play the second song from anirudh's song,play_music
+please tell me the latest news,news_query
+switch off the lights,iot_hue_lightoff
+i want the music to be saved can you do it for me,music_likeness
+what's sensational in time of india,news_query
+turn the smart plug on,iot_wemo_on
+play a random song from my playlist,play_music
+play a retro song in my playlist,play_music
+play any song by joe prsaise,play_music
+remove the first alarm,alarm_remove
+start playing,play_music
+can you play rock music for the next hour,play_music
+can you tell me a joke,general_joke
+tell me a funny joke,general_joke
+what are the breaking news,news_query
+power up the plug socket one,iot_wemo_on
+turn off the lights in the bathroom,iot_hue_lightoff
+turn off the bathroom lights,iot_hue_lightoff
+what is the weather like right now,weather_query
+open bad religion folder,play_music
+what are the latest news headlines,news_query
+what's happening in the news,news_query
+raise volume,audio_volume_up
+run coffee maker,iot_coffee
+get me the latest stock price for costco,news_query
+change the bedroom lights to green,iot_hue_lightchange
+change the lights to dim,iot_hue_lightdim
+play the weekend,play_music
+what mistakes do you usually make,general_quirky
+who is the singer of song,music_query
+what time is it in new york city,datetime_query
+is it cold outside,weather_query
+what's a good joke,general_joke
+open songs from major lazer,play_music
+what alarms are set,alarm_query
+by get marks,weather_query
+prepare the order as soon as possible,takeaway_query
+do you know any jokes,general_joke
+set an alarm for nine am,alarm_set
+play the song sung by katy perry,play_music
+play mf doom anything,play_music
+turn off eight am alarm,alarm_remove
+change light color,iot_hue_lightchange
+play all by playlist,play_music
+show latest news,news_query
+what is new news for today,news_query
+what is the current weather,weather_query
+unmute after,audio_volume_up
+please ring the wake up alarm at eight am next saturday,alarm_set
+start playlist,play_music
+please play the radio gaga song,play_music
+set notification for news about the dakota pipeline,news_query
+please start vacuum cleaner,iot_cleaning
+turn off room lights,iot_hue_lightoff
+current time in japan,datetime_query
+can you lower the lights,iot_hue_lightdim
+i want two burgers and one coke order it fast,takeaway_order
+keep me informed about bitcoin price,news_query
+what is the time now in new york,datetime_query
+hi can you please turn lower the lights,iot_hue_lightdim
+i want to hear the last news from c. n. n.,news_query
+summarize week's weather details,weather_query
+turn the lights off,iot_hue_lightoff
+how cold is it outside today,weather_query
+don't talk until i ask you to,audio_volume_mute
+i want to know about this song,music_query
+what is the weather forecast for this week,weather_query
+could you please give me up to date news headlines from my newest provider,news_query
+could you please find me the latest news from a source that i do not usually go to,news_query
+tell me about the latest political news,news_query
+i want to hear snow by red hot chili peppers,play_music
+play bilando,play_music
+play let me love you by ariana grande,play_music
+play love songs,play_music
+mild or heavy weather,weather_query
+confirm my alarm settings,alarm_query
+hey siri mute the speakers,audio_volume_mute
+what is the current temperature outside,weather_query
+play bob dylan playlist,play_music
+hey what will be the predicted weather for tomorrow,weather_query
+what are the b. b. c. poll predictions for the upcoming us elections,news_query
+start the robot roomba,iot_cleaning
+my set alarms,alarm_query
+alarm settings,alarm_query
+robot vacuum the living room now,iot_cleaning
+opinion save,music_likeness
+set alarm for eight am,alarm_set
+play some christian music,play_music
+make the house lights amber at six p. m.,iot_hue_lightchange
+please turn lights off,iot_hue_lightoff
+please remove my alarm,alarm_remove
+i like this song please save,music_likeness
+open up and play music from my jogging playlist,play_music
+set my alarm for seven am,alarm_set
+turn my morning alarm on,alarm_set
+what is the time difference between here and japan,datetime_convert
+what's the weather like right now in new york,weather_query
+increase the brightness of the lights,iot_hue_lightup
+i want dimmer lights,iot_hue_lightdim
+can i get take-out from pf changs,takeaway_query
+news articles on a particular subject,news_query
+what time is it in new york now,datetime_query
+turn the living room's light off,iot_hue_lightoff
+could you turn the light off,iot_hue_lightoff
+play creed from my rock playlist,play_music
+what time is it in london right now,datetime_query
+dim the lights in the living room,iot_hue_lightdim
+open the folder app please,takeaway_order
+call the nearest thai restaurant with delivery,takeaway_order
+i need a good cry can you play me sad rock songs,play_music
+lower the speaker volume,audio_volume_down
+turn on the robot vacuum cleaner,iot_cleaning
+give me up to date on sports news,news_query
+get hourly notification on sports news,news_query
+where is volume setting,audio_volume_other
+brighten the lights in the hallway,iot_hue_lightup
+please turn up the screen brightness all the way,iot_hue_lightup
+do not play rock metal,music_dislikeness
+user friendly,news_query
+can you increase the brightness in the room,iot_hue_lightup
+go to the washington post website,news_query
+what day of the week does the fifteenth of march fall on,datetime_query
+my desire is to listen to some country music,play_music
+coordinate all pop song genres,play_music
+is there any special in politic,news_query
+play lady by kenny roger,play_music
+next play justin bieber's sorry,play_music
+get sia's cheap thrills ready to play next,play_music
+play all songs on shuffle,play_music
+i need some rap,play_music
+what's the time in sydney now,datetime_query
+start vacuum cleaner,iot_cleaning
+latest new on international women's day,news_query
+crack a joke,general_joke
+how cold will it get each night this week,weather_query
+who sings the song about a long black train,music_query
+find today's wapo articles about trump,news_query
+if it's sunrise in stockholm what time is it in okinawa,datetime_convert
+present time in new york,datetime_query
+disable alarm for three p. m.,alarm_remove
+olly change the lighting to blue,iot_hue_lightchange
+pandora,play_music
+i need to know if mr. pizza delivers,takeaway_query
+how is the weather likely to be this week,weather_query
+tell me the current time,datetime_query
+what's the funniest joke you know,general_joke
+is my alarm set for tomorrow morning,alarm_query
+if it's five am in berlin what time is it here,datetime_convert
+i want a coffee,iot_coffee
+fast me the news of academy awards,news_query
+fast,audio_volume_up
+tell me about the new foreign policy of trump,news_query
+get todays climate forecast here,weather_query
+start music app and play a song for me,play_music
+i like the songs of yeshudas please play it,music_likeness
+will it be nice outside this week,weather_query
+please slow down volume of speaker,audio_volume_down
+please raise the light i am not comfortable at this,iot_hue_lightup
+what do we have on new york time's front page,news_query
+what's a good joke,general_joke
+can you turn up your volume,audio_volume_up
+please turn off the light of my son's room,iot_hue_lightoff
+does pizza hut have delivery,takeaway_query
+i mostly pay attention,weather_query
+i occasionally pay attention,weather_query
+can i please have the weather for tomorrow here in costa mesa,weather_query
+can you make me some coffee olly,iot_coffee
+tell me about trump,news_query
+let me know when you hear about france,news_query
+change the lights to blue olly,iot_hue_lightchange
+i'd like some red lighting,iot_hue_lightchange
+play the latest rock songs having rating of four or above,play_music
+when is easter in the year two thousand and eighteen,datetime_query
+remove the alarm for tomorrow,alarm_remove
+set the alarm off,alarm_remove
+how hot is it in quebec,weather_query
+play slayer,play_music
+what are today's sports news,news_query
+what alarms did i set,alarm_query
+play the latest songs by dalida,play_music
+do not make any noise until morning alarm,audio_volume_mute
+quiet mode on until i am home from work,audio_volume_mute
+show me the available colors of lights,iot_hue_lightchange
+what's the temperature outside,weather_query
+order a pizza with sausage from domino's,takeaway_order
+remind me that i like that song,music_likeness
+what news has happened on c. n. n. today,news_query
+show me the current time in germany,datetime_query
+the sun is shinning bright will we have this weather for the rest of the day,weather_query
+play my summer jams playlist,play_music
+what's the weather for my location this week,weather_query
+will it rain this week,weather_query
+turn on wemo,iot_wemo_on
+turn off the lamps,iot_hue_lightoff
+start the vacuum cleaner,iot_cleaning
+find me a joke related to baseball,general_joke
+what is the current day month and year,datetime_query
+is it going to be sunny next tuesday,weather_query
+set notification from world news,news_query
+can you tell me the latest news,news_query
+tell me current time in los angels,datetime_query
+once a new topic on politics comes up alert me,news_query
+explanation of the song,music_query
+raise the volume of the current music,audio_volume_up
+what times do my alarms go off,alarm_query
+show me the latest news from the guardian,news_query
+please turn the volume down,audio_volume_down
+turn it up olly,audio_volume_up
+are there any alarms going off today,alarm_query
+when is the next time it will rain,weather_query
+will it snow tomorrow at noon,weather_query
+i want to see all set alarms,alarm_query
+so clean news in past six hours is what,news_query
+play only all music released between the year one thousand nine hundred and ninety and two thousand,play_music
+remove tuesday alarm of nine am,alarm_remove
+what music is currently playing on,music_query
+tomorrow's temperature is to be hot yes or no,weather_query
+yes or no tomorrow's temperature is to be hot,weather_query
+find some smooth jazz for me,play_music
+my vacuum cleaner should start between ten to eleven am everyday,iot_cleaning
+change the music mode to rock,music_settings
+lower volume by fifty percent,audio_volume_down
+set alarm of only monday morning six am,alarm_set
+what is the minimum temperature of london,weather_query
+hey olly please tell me the name of this song that is currently playing,music_query
+what do you think,music_likeness
+you like the song,music_likeness
+turn off all lights,iot_hue_lightoff
+brighten the lights,iot_hue_lightup
+give me news on president trump,news_query
+latest news on terrorism,news_query
+turn off the alarm,alarm_remove
+next song,play_music
+please dim the lights,iot_hue_lightdim
+turn off the dining room,iot_hue_lightoff
+switch off the master's bedroom,iot_hue_lightoff
+will trump visit russia anytime soon,news_query
+date today,datetime_query
+which teams are playing today in the premier league,news_query
+more lights please,iot_hue_lightup
+song title,music_query
+title,music_query
+start playlist and play music,play_music
+please make me coffee without sweetener,iot_coffee
+i want to eat some spicy thing,takeaway_order
+order one pizza from pizza hut,takeaway_order
+play coldplay album,play_music
+can you loop the playlist themes,play_music
+when does my alarm go off,alarm_query
+weather report now,weather_query
+what month is today,datetime_query
+great song for the commute,music_likeness
+add song to running list,music_likeness
+get me match highlights,news_query
+wake me up at five am,alarm_set
+turn on vacuum cleaner,iot_cleaning
+will there be a fall in temperature by tonight,weather_query
+play the song title,play_music
+clean my house,iot_cleaning
+change the light to pink color,iot_hue_lightchange
+hi google play me playlist wacky in my gaana application,play_music
+set alarm at six thirty am,alarm_set
+can you turn up the lights,iot_hue_lightup
+can you open my itunes,play_music
+play the beatles,play_music
+please play thirteen,play_music
+lower lights in kitchen,iot_hue_lightdim
+coffee make now,iot_coffee
+current song playing what is it,music_query
+olly where is my food,takeaway_query
+i never want to hear that song again,music_dislikeness
+put that song in my favorite list,music_likeness
+i want some jazz music to play,play_music
+i want more light,iot_hue_lightup
+raise the light,iot_hue_lightup
+alexa i'dl like to hear any classical except for bach or schubert,play_music
+bring me the title of current music,music_query
+what is the music playing right now,music_query
+what's going on in the world these days,news_query
+next play summer lovin,play_music
+tell me all the current events in my hometown,recommendation_events
+color of light should be dimmed bright,iot_hue_lightdim
+wake me up,alarm_set
+what's the date of the winter solstice two years from now,datetime_query
+i need to know the time right now what is it,datetime_query
+i'm going to sleep now,iot_hue_lightoff
+hows the food order going,takeaway_query
+when can we eat,takeaway_query
+is dinner ready yet,takeaway_query
+set an alarm for tomorrow at six in the morning,alarm_set
+get me up in half an hour,alarm_set
+turn off my alarm,alarm_remove
+who is the singer of hotel california,music_query
+what is the current weather condition in my place,weather_query
+what day of the week was december four one thousand nine hundred and eighty two,datetime_query
+c. n. n. headlines,news_query
+b. b. c. world headlines,news_query
+silence for two hours,audio_volume_mute
+from now on mute,audio_volume_mute
+silently adjust,audio_volume_mute
+wooo,general_quirky
+weather in paris,weather_query
+play ella fitzgerals get happy,play_music
+turn off kitchen light,iot_hue_lightoff
+i can't see turn up the lights,iot_hue_lightup
+read me the latest international news,news_query
+can i order take out from licari's,takeaway_order
+do i need a sweater today,weather_query
+show me the dim color,iot_hue_lightdim
+light color for study room,iot_hue_lightup
+tell me what the weather is doing in grand rapids mi right now,weather_query
+please play songs i've purchased and favorited,play_music
+i need to change my house lights color to blue,iot_hue_lightchange
+start coffee at six am,iot_coffee
+keep me up to date with today's n. b. a. scores,news_query
+put the lights off now,iot_hue_lightoff
+it is seven am in pacific standard time,datetime_convert
+alexa turn the lights down to seven,iot_hue_lightdim
+what's the news for today,news_query
+alexa give me the headline news,news_query
+what is the weather this friday,weather_query
+what's the weather like tomorrow,weather_query
+display the local time of london at this moment,datetime_query
+add an alarm for tomorrow morning at six am,alarm_set
+noodles one pack make it as takeaway,takeaway_order
+make an order for noodles one pack make it as takeaway order,takeaway_order
+put dark colors instead of light ones in the house,iot_hue_lightchange
+olly put dark colors instead of light ones in the house,iot_hue_lightchange
+which type of music it is,music_query
+which film the music comes from what is the name of the music,music_query
+what song is on the radio,music_query
+song info,music_query
+what's happening around the world,news_query
+give me the latest news,news_query
+who wrote this song,music_query
+start celine dion songs,play_music
+isn't it a lovely song please save this for me,music_likeness
+give me more light,iot_hue_lightup
+search for more songs from the band,play_music
+could you tell me the time in london,datetime_query
+i want to order a pizza from michael's pizza,takeaway_order
+please give me todays forecast for new york city,weather_query
+how is my order,takeaway_query
+start robot vacuum cleaner,iot_cleaning
+send tech news,news_query
+turn off the shed light,iot_hue_lightoff
+i feel like having soup for lunch order from wangs kitchen restaurant a chicken manchow soup,takeaway_order
+seven hundred,datetime_convert
+is the time currently correct for where i am located,datetime_query
+call for take-out,takeaway_order
+daily news,news_query
+today is what date,datetime_query
+siri today is what date,datetime_query
+how do i set my coffee machine to make coffee,iot_coffee
+how do i start the robot vacuum cleaner,iot_cleaning
+play classic rock,play_music
+alexa play a mi song of rap and rock one after the other,play_music
+make the room light blue,iot_hue_lightchange
+make the bedroom lights red and the hall lights normal color please,iot_hue_lightchange
+how is the weather,weather_query
+anything interesting from bob's news,news_query
+change the lights in my home to green,iot_hue_lightchange
+play random music,play_music
+please set the alarm for next friday at six thirty am,alarm_set
+turn off my wemo socket,iot_wemo_off
+play my spotify dance play list,play_music
+turn off the porch light,iot_hue_lightoff
+what's the latest news from c. n. n. please,news_query
+turn up the brightness,iot_hue_lightup
+tell me about the latest environmental news,news_query
+play my favorite music now,play_music
+i've canceled the order placed at mcd did it go through,takeaway_query
+current weather forecast,weather_query
+will i need to wear a jacket next wednesday,weather_query
+show me news about trump,news_query
+show me news about the environment,news_query
+could you please create a pandora channel for adele,music_settings
+latest news from the area,news_query
+did i remember to set a reminder alarm for my next doctor's appointment,alarm_query
+is it raining tonight,weather_query
+will the temperature stay about the same or is it going to get colder,weather_query
+is the last order is ready,takeaway_query
+turn off the socket,iot_wemo_off
+please play folk music,play_music
+let's hear some indie rock okay,play_music
+olly i feel like dancing play me some rock north roll,play_music
+olly i need to hear some sad songs today,play_music
+shut the lights off,iot_hue_lightoff
+i want to hear purple haze,play_music
+do you have a funny joke for me,general_joke
+give me news from c. n. n.,news_query
+start a pot of coffee please,iot_coffee
+i need a cup of coffee,iot_coffee
+olly play music from the jazz genre,play_music
+how long until my order is ready,takeaway_query
+shut off lights,iot_hue_lightoff
+discontinue use of lights,iot_hue_lightoff
+should i bring an umbrella today,weather_query
+are there any upcoming concerts by,music_likeness
+please play some jazz music,play_music
+silence speakers,audio_volume_mute
+silence volume on speakers,audio_volume_mute
+alexa play song over the rainbow,play_music
+what time is it in london,datetime_query
+can you make me a cup of coffee,iot_coffee
+set the living room lights to fifty percent,iot_hue_lightchange
+what day is december thirteenth,datetime_query
+the second of next mont lands on what day,datetime_query
+is there takeaway at papa john's,takeaway_query
+olly what time is it in this city,datetime_query
+please get the coffee machine to make me some coffee,iot_coffee
+olly tell me my alarms,alarm_query
+please show me any articles related to weather in the morning news,news_query
+current weather,weather_query
+are there any updates in regard to the election,news_query
+please start the vacuum cleaner,iot_cleaning
+brightness ninety percent,iot_hue_lightchange
+tell me if taco bell delivers,takeaway_query
+tell me what the date is today,datetime_query
+weekly weather report,weather_query
+what are the news stories on the c. n. n. website,news_query
+what time is it in austin,datetime_query
+play atmosphere next,play_music
+is there an alarm for ten am,alarm_query
+initialize the robot vacuum,iot_cleaning
+start the vacuum,iot_cleaning
+please play a song by bruno mars,play_music
+turn office lights off,iot_hue_lightoff
+please change the light colors to red,iot_hue_lightchange
+remove set alarm,alarm_remove
+cancel alarm,alarm_remove
+please tell me news related to the stock market,qa_stock
+play songs by the band the beatles,play_music
+can you raise the lights for me please,iot_hue_lightup
+retrieve the light for me,iot_hue_lightup
+does louie's do take out,takeaway_query
+take out available louies,takeaway_query
+i hate this song,music_dislikeness
+i love this song,music_likeness
+i want to play the song again,play_music
+tell me the temperature,weather_query
+front page news articles please,news_query
+what's new in the news,news_query
+change my light color to blue and please turn off the kitchen light,iot_hue_lightchange
+what is the news from that newsource,news_query
+shut off the socket,iot_wemo_off
+it's time for junk food,takeaway_order
+what time is it in pacific standard time,datetime_query
+how's the weather like in new jersey,weather_query
+make the lights off,iot_hue_lightoff
+show me some current events,news_query
+olly turn the news on,news_query
+don't play this song again,music_dislikeness
+i love this music can you please save this to my dance playlist and remember that i like it,music_likeness
+play my favorite song from last year,play_music
+play something from keane's hopes and fears album,play_music
+what is eastern standard time right noe,datetime_query
+play me a random song from my playlist,play_music
+how many tornadoes have there been this month,general_quirky
+olly how many tornadoes have there been this month,general_quirky
+make me a cup of coffee with salted carmel flavored cream,iot_coffee
+play track one from my david bowie playlist,play_music
+do i have any alarms set for six am tomorrow,alarm_query
+show me my alarms i have set,alarm_query
+turn my bedroom lights off,iot_hue_lightoff
+play music playlist,play_music
+turn off the speakers,audio_volume_mute
+what year did this song come out,music_query
+stop start the juice,iot_wemo_on
+rate five,music_likeness
+hey olly can you please make me a creamy coffee,iot_coffee
+please note i like jazz and hate disco,music_likeness
+play poker face by lady gaga,play_music
+stream poker face by lady gaga,play_music
+remind me to do something then,calendar_set
+set a new alarm for that time,alarm_set
+what is the current state of the investigation into trump's ties with russia,news_query
+i want a lower light,iot_hue_lightdim
+what day of the week does christmas fall on this year,datetime_query
+should we expect rain this afternoon,weather_query
+play reggae music,play_music
+olly does shibaru sushi deliver,takeaway_query
+lower the lights please,iot_hue_lightdim
+does the nearby dominoes have delivery,takeaway_query
+power off the wemo plug,iot_wemo_off
+what is the weather this week for miami,weather_query
+what is the forecast for the week,weather_query
+please activate my coffee pot for me,iot_coffee
+please make me a cup of coffee,iot_coffee
+please turn on my coffee pot,iot_coffee
+turn the plug off,iot_wemo_off
+i want to see the news,news_query
+i want to hear a joke,general_joke
+report weather for thirty three thousand seven hundred and seventy four,weather_query
+report weather for largo,weather_query
+where is the car,audio_volume_up
+what is the date for next tuesday,datetime_query
+knock knock,general_joke
+no lights in the kitchen,iot_hue_lightoff
+turn down the lights to medium,iot_hue_lightoff
+make it red in here,iot_hue_lightchange
+please set my alarm for five p. m.,alarm_set
+play a live version of elton john,play_music
+play the most popular elton john song,play_music
+what is the ten day forecast,weather_query
+are there any forecasts of rain or snow this week,weather_query
+is the weather going to be nice this weekend,weather_query
+do you know the eta of my order,takeaway_query
+can you set my coffee machine to make me coffee at seven am,iot_coffee
+what degree is it outside,weather_query
+new pop music,play_music
+best rap music,play_music
+remove the latest alarm,alarm_remove
+is the twenty second on a wednesday,datetime_query
+is it ten,datetime_query
+does the weather call for rain saturday,weather_query
+quiet time,audio_volume_mute
+please lower music volume,audio_volume_down
+play the most popular song by given artist,play_music
+speak softer please,audio_volume_down
+play music now please,play_music
+let's play my most played song list,play_music
+what is the weather in pittsburgh,weather_query
+is there snow in the forecast,weather_query
+play only my list,play_music
+what is the chance of precipitation in todays weather,weather_query
+please turn on my balcony lights,iot_hue_lighton
+please change time zone to canada,datetime_convert
+please play shake it off by taylor swiftm,play_music
+change the lights in the living room to green and red,iot_hue_lightchange
+i want the light to be a little more red ish,iot_hue_lightchange
+i would like to hear jazz music,play_music
+put on some led zeppelin,play_music
+can you put on love playlist,play_music
+play one more time,play_music
+what is the current time in chennai,datetime_query
+set my coffee machine,iot_coffee
+please turn off the lights in patio,iot_hue_lightoff
+what is the latest story from fox news,news_query
+turn off sound,audio_volume_mute
+mute please,audio_volume_mute
+what is the weather in beijing,weather_query
+speak loudly,audio_volume_up
+brighter,iot_hue_lightup
+how about you,general_quirky
+remind me after ten minutes,calendar_set
+what's the latest news from xinhua,news_query
+what's the latest news on c. n. n.,news_query
+what is the time in beijing,datetime_query
+it is a sunny day today right,weather_query
+what is going on in the world today,news_query
+news from c. n. n.,news_query
+hey google play some jazz music for me,play_music
+what kind of music do you think i like,music_query
+tell me the time in someplace,datetime_convert
+can i carry out with this restaurant,takeaway_query
+i would like the like in the kitchen to be a different color,iot_hue_lightchange
+olly save all the songs i have listened to more than once,music_likeness
+turn on the playlist i have dedicated to rock music,play_music
+i need an alarm set for five hundred and thirty am tomorrow,alarm_set
+i want an alarm for three today,alarm_set
+lights at percent,iot_hue_lightchange
+olly do i have an alarm set for tomorrow,alarm_query
+play my playlist starting from the bottom,play_music
+please play my nineties rap hits,play_music
+i would like to hear aretha franklin's call me after this song,play_music
+today is which date,datetime_query
+play best friends by yelawolf,play_music
+turn the lights to red color,iot_hue_lightchange
+what song is playing right now,music_query
+do you know the name of the song that is playing,music_query
+olly if any new news comes out about the flood can you let me know right away,news_query
+get me up at eight am,alarm_set
+raise the lights,iot_hue_lightup
+tell me about alarms,alarm_query
+disable smart socket,iot_wemo_off
+i want the smart socket off now,iot_wemo_off
+play youtube playlist blank,play_music
+play my midnight love playlist,play_music
+give me a weather report for las vegas,weather_query
+turn off the bathroom light please,iot_hue_lightoff
+slow down the speaker volume,audio_volume_down
+mute for fifteen minutes,audio_volume_mute
+please rate current song as five stars,music_likeness
+find me info on cars,news_query
+please remove the alarm that is set for weekdays at nine,alarm_remove
+turn down lights,iot_hue_lightdim
+i want to order chinese take-out,takeaway_order
+mute the music,audio_volume_mute
+turn off the sounds,audio_volume_mute
+activate the roomba,iot_cleaning
+what kind of weather are they having in orange tx right now,weather_query
+please put on my favorite rap music playlist,play_music
+who sings the song that i am listening to right now,music_query
+what is the wake up time for my alarm i have set for the flight this weekend,alarm_query
+brighten up the lighting,iot_hue_lightup
+list current set alarms,alarm_query
+any alarms currently listed,alarm_query
+read that back,play_audiobook
+play me last year's hits,play_music
+i want to hear any songs that got grammys this year,play_music
+i'd like to listen to hear a music of dance and country,play_music
+this is a good tune please notate file accordingly,music_likeness
+what is the temperature,weather_query
+say the time,datetime_query
+rap,play_music
+please play shape of you by said sheeran,play_music
+please select the first song in my itunes library,play_music
+set an alarm at six am,alarm_set
+can you make the lights go out,iot_hue_lightoff
+olly what day of the week is halloween,datetime_query
+what happened on the walking dead,news_query
+let's suck out the dust,iot_cleaning
+get rid of my current alarms,alarm_remove
+what's in the news,news_query
+please power down,iot_wemo_off
+power off,iot_wemo_off
+play pandora nineties dance party,play_music
+play the song i listen to the most,play_music
+run the vacuum,iot_cleaning
+please find out of charley's steakhouse delivers,takeaway_query
+i would like to hear some rap music,play_music
+what day is the fifth,datetime_query
+turn the kitchen lights off,iot_hue_lightoff
+i want to set an alarm when i'm driving home tomorrow to remember to stop at the store and get food,alarm_set
+make a coffee,iot_coffee
+nice lyrics,music_likeness
+turn off overhead light,iot_hue_lightoff
+turn up the volume on my speakers,audio_volume_up
+what is the weather going to be like today in tucson,weather_query
+convert current time from g. m. t. to e. s. t.,datetime_convert
+play my shuffled playlist please,play_music
+i want to know everything that breaks about the dam breaking in california,news_query
+what time have you set the alarm,alarm_query
+where can i get a shot of tequila and some to go mexican food,takeaway_query
+is my reminder alarm set for dance class,alarm_query
+tell me the percentage of the chance of rain in seattle washington for today,weather_query
+can you please play imogen heap,play_music
+could you please confirm if paradise does takeaway,takeaway_query
+what alarms did i set today,alarm_query
+please play the song every time i see you,play_music
+turn off my wifi,iot_wemo_off
+change volume to thirty five percent,audio_volume_other
+change volume level to maximum,audio_volume_other
+please check the weather in kansas,weather_query
+turn off the lights in the kitchen,iot_hue_lightoff
+activate the vacuum cleaner and use it,iot_cleaning
+hey olly chance the current light settings,iot_hue_lightchange
+give me the latest political headlines across the world,news_query
+is there any news about the presidency,news_query
+current time new york,datetime_query
+hey olly what time is it,datetime_query
+hey siri what's the time,datetime_query
+what would you call this kind of music that we're listening to,music_query
+power on wemo,iot_wemo_on
+i want to hear limelight by rush,play_music
+am i going to be able to mow the grass this evening,weather_query
+tell me the funniest joke that was ever told,general_joke
+i would like to hear some good funny jokes,general_joke
+when will my chinese food be delivered,takeaway_query
+is there any rain in the forecast for the next week,weather_query
+play sleepyhead by passion pit,play_music
+is it afternoon yet,datetime_query
+switch on the roomba,iot_cleaning
+please stop talking,audio_volume_mute
+olly turn on the coffee machine to make me some coffee,iot_coffee
+house change all lights to blue,iot_hue_lightchange
+house lights blue,iot_hue_lightchange
+house can you make all the lights in the house blue,iot_hue_lightchange
+what's the current time in eastern standard,datetime_query
+what time is it on the east coast of the united states,datetime_query
+what's the latest news,news_query
+what is todays weather,weather_query
+move to the next song in the list,music_settings
+prepare coffee now,iot_coffee
+my coffee is cold please make more coffee,iot_coffee
+play song aces high,play_music
+increase the brightness in this room,iot_hue_lightup
+should i bring a jacket with me tonight,weather_query
+make the light in here redder,iot_hue_lightchange
+play the song major tom by david bowie,play_music
+in how many hours will it be midnight in london england,datetime_query
+will the weather be less than ten degree in paris,weather_query
+will there be rain tomorrow in rome,weather_query
+i need to get up at ten tomorrow,alarm_set
+what does my facebook feed look like,social_query
+what is the time in china,datetime_query
+turn lights off,iot_hue_lightoff
+cease operating lights,iot_hue_lightoff
+how is the weather where i am,weather_query
+give me some good sounds,play_music
+what time is it in cleveland,datetime_query
+review all alarms,alarm_query
+how is it outside today,weather_query
+what's the current weather,weather_query
+what will the weather be tomorrow,weather_query
+what are the headlines on c. n. n.,news_query
+what are the trending articles on the new york times,news_query
+will i need to carry around a brolly today,weather_query
+what's the weather in portland,weather_query
+identify song,music_query
+what jacket should i wear,weather_query
+how is the weather in san francisco,weather_query
+make coffee at three,iot_coffee
+start the coffee machine at three,iot_coffee
+is it going to rain at one p. m. today,weather_query
+play songs,play_music
+is fongs dine in only,takeaway_query
+how many saturdays are in march,datetime_query
+play song next,play_music
+will i need to shovel my driveway this morning,weather_query
+give me the weather forecast for this week,weather_query
+will it be raining on thursday,weather_query
+what is the latest news on donald trump,news_query
+what are the latest crime statistics for me area,news_query
+what did vogue post today,news_query
+hey what time is it in london now,datetime_query
+olly change the color of the lights,iot_hue_lightchange
+olly what is the weather forecast for today,weather_query
+order a twelve piece honey mustard wing combo with seasonimg altnon the fries and a sprite as the drink,takeaway_order
+start the dogwalking playlist,play_music
+hey olly i like music by sigur ros,music_likeness
+can you make some coffee,iot_coffee
+which song is this one,music_query
+read me the latest headlines from nytimescom,news_query
+what is the time in chicago,datetime_query
+play my favorites,play_music
+set a notification for sports game,calendar_set
+tell me when it is five p. m.,alarm_set
+find information on today's stocks,news_query
+will the temperature be higher than forty tomorrow,weather_query
+enable smart socket,iot_wemo_on
+turn on new smart socket,iot_wemo_on
+change volume settings in the negative alexa,audio_volume_other
+set the speakers to mute,audio_volume_mute
+set an alarm for six thirty am,alarm_set
+do not talk,audio_volume_mute
+the news from c. b. s. alexa,news_query
+current time in,datetime_query
+i really enjoy this song,music_likeness
+this is the best band ever,music_likeness
+please list all my alarms,alarm_query
+should i wear sandals or shoes with socks,weather_query
+do you know the weather,weather_query
+play me a song by van halen,play_music
+please turn my speakers on google,audio_volume_up
+what day is halloween this year,datetime_query
+do not wake me up tomorrow,alarm_remove
+is it going to rain on monday,weather_query
+is there any new information regarding the mexican american border wall,news_query
+tell me the time in this time zone,datetime_query
+please tell me what alarms are on,alarm_query
+what day does my birthday fall on this year june twenty seventh,datetime_query
+do i need a jacket,weather_query
+i want coffee everyday,iot_coffee
+please turn on the wemo plug socket,iot_wemo_on
+change the lights to a different hue,iot_hue_lightchange
+remember how i fell about this song,music_likeness
+what is the time in another city,datetime_query
+make the lights pink,iot_hue_lightchange
+speaker volume increase,audio_volume_up
+clear data,audio_volume_mute
+is there any news olly,news_query
+play all music by billy joel,play_music
+how many hours distance is between my location and new york,datetime_convert
+wake me up in thirty minutes,alarm_set
+is my alarm set,alarm_query
+shut down the sound,audio_volume_mute
+how is it outside,weather_query
+enter song suggestion,music_likeness
+search to find current local time and time zone,datetime_query
+what time is it in a city,datetime_query
+save my opinion on adele's song,music_likeness
+set notifications on the current weather disasters in america,calendar_set
+lower the overhead lights,iot_hue_lightdim
+play songs by barenaked ladies,play_music
+are you aware this joke,general_joke
+temperature outside,weather_query
+turn off my first alarm,alarm_remove
+play my soundtrack,play_music
+turn on an alarm for three thirty p. m. today,alarm_set
+will it rain now,weather_query
+what time is my domino's order expected to arrive,takeaway_query
+i'd like to know what time it is right now,datetime_query
+news of the train wreck,news_query
+would you love to see,iot_hue_lightchange
+what day of the week is the twenty third of this month,datetime_query
+music third day,play_music
+hello i want to turn off my wemo plug,iot_wemo_off
+who won the presidential election this year,qa_factoid
+olly play i can't feel my face,play_music
+what is the funniest joke ever,general_joke
+yes i like to save opinion on song playing and which player support that song,music_likeness
+prepare a cup of coffee for me,iot_coffee
+turn off sockets,iot_wemo_off
+please mute my speaker,audio_volume_mute
+add this song for the next playing song,play_music
+what times are my alarms set for,alarm_query
+will i need an umbrella this week,weather_query
+make my usual,iot_coffee
+can you make the room brighter,iot_hue_lightup
+tell me the news about share market ups and downs,news_query
+can you please make a coffee,iot_coffee
+please make the lights natural,iot_hue_lightchange
+when is the next friday the thirteenth,datetime_query
+how cold is today,weather_query
+what is the weather for this week,weather_query
+what's the weather now,weather_query
+set my alarm for twelve p. m.,alarm_set
+alexa please turn down the lights in the house,iot_hue_lightdim
+off all type of active devices,iot_wemo_off
+make a new alarm,alarm_set
+please play me songs from the eighties,play_music
+what was the weather for the week,weather_query
+new alarm for six am,alarm_set
+what is the forecast for saturday,weather_query
+olly cancel all soccer practice alarms,alarm_remove
+i don't want any alarms,alarm_remove
+nobody knows,play_music
+check if default alarm is set,alarm_query
+here's the truth about meals on wheels in someone's budget,news_query
+confirm a travel ticket to german,transport_ticket
+please tell me what is the time in sanfranscio,datetime_query
+find songs from my big band playlist,play_music
+set the coffee maker to on,iot_coffee
+please skip two songs,music_settings
+turn the light off in the living room,iot_hue_lightoff
+olly turn the light off in the living room,iot_hue_lightoff
+please play the latest song from the album abbas,play_music
+could you please play the song from the artist madonna,play_music
+could you please play the song of michael jackson,play_music
+lower the intensity of light,iot_hue_lightdim
+what kind of weather should i expect this week,weather_query
+i want to know about the brexit,news_query
+tag this song with five stars,music_likeness
+add my opinion to this song great,music_likeness
+turn my lights down to a lower level of brightness,iot_hue_lightdim
+convert eight am manila time to new york time,datetime_convert
+please reduce the speaker volume,audio_volume_down
+turn the vibrate off from speaker,audio_volume_mute
+what is the date next wednesday,datetime_query
+i like music,music_likeness
+siri please turn the lights off in the bathroom,iot_hue_lightoff
+set environmental news notification,news_query
+title of song,music_query
+save this song to playlist,music_likeness
+is the song by shakira,music_query
+what is currently breaking news,news_query
+please play only music of pop mix,play_music
+please play only sad song in music player,play_music
+show b. b. c. news of migration,news_query
+fix alarm,alarm_set
+olly get me the popular news from b. b. c.,news_query
+get me the popular news from b. b. c.,news_query
+what is the weather going to be like on march twentieth two thousand and seventeen,weather_query
+is it twentieth march today,datetime_query
+please play only are rehman's songs,play_music
+show weather,weather_query
+hey do you have home delivery,takeaway_query
+rock,play_music
+put on the vacuum on now and clean the living room,iot_cleaning
+time between us and canada,datetime_convert
+time difference between u. k. and us,datetime_convert
+low cooling condition,weather_query
+please alert me to the time,datetime_query
+play techno music,play_music
+olly give me some dim light,iot_hue_lightdim
+update to current time,datetime_query
+set alarm six am,alarm_set
+what's the latest trump controversy,news_query
+s.,play_music
+please turn socket off,iot_wemo_off
+music,play_music
+does pings do takeaway,takeaway_query
+read me the latest new york times headlines,news_query
+what are the top stories on c. n. n.,news_query
+play the music,play_music
+will you put on the music,play_music
+what is the time in canada now,datetime_query
+is it going to rain later,weather_query
+do i need umbrella for night,weather_query
+can i wear my sandals today,weather_query
+have i need to take a sun glass,weather_query
+i need you to get me up at six am,alarm_set
+cut down the volume,audio_volume_down
+order pizza for delivery,takeaway_order
+what is the time difference between california and new york,datetime_convert
+please put all the lights,iot_hue_lightup
+convert eight thirty from gtm four to g. m. t. five thirty,datetime_convert
+weather at the moment,weather_query
+mute for one hour,audio_volume_mute
+what time should i go for a hike,weather_query
+the song in background is cool,music_likeness
+who is the music director of this song,music_query
+don't make any sounds,audio_volume_mute
+who takes less of duration of time for delivery,takeaway_query
+is this song ed sheeran,music_query
+i want reggae,play_music
+set alarm at nine am on next sunday,alarm_set
+find food and order,takeaway_order
+please set the brightness of lightness appropriately in kitchen,iot_hue_lightup
+brighten of lights in living room,iot_hue_lightup
+i will require full cover jacket if it is too stormy in evening,weather_query
+i will need warm socks in winter in morning,weather_query
+can you change the volume at,audio_volume_other
+please turn the lights off,iot_hue_lightoff
+open temperature,weather_query
+play giants by banks and steelz,play_music
+check the dish price and all,takeaway_query
+reduce volume,audio_volume_down
+what's on the radio right now,music_query
+what's the name of the piece you are playing,music_query
+play previous song,play_music
+alarm ten am,alarm_set
+play for me music by the beatles,play_music
+ensure i have to get up at six in morning,alarm_set
+display date,datetime_query
+ask for the weather today evening,weather_query
+switch wemo plug socket off,iot_wemo_off
+play for me the music by the beatles,play_music
+should i take my raincoat with me now,weather_query
+what is the time in las vegas,datetime_query
+august fifteenth is what day of the week,datetime_query
+play my playlist party songs,play_music
+please tell me the news headlines,news_query
+opinion petabit,music_likeness
+begin vacuuming,iot_cleaning
+time now,datetime_query
+listen to my favorites,play_music
+show me tomorrows weather in this area,weather_query
+display the seven day forecast for this week,weather_query
+brighten the light of hall,iot_hue_lightup
+shall i change my car tires to snow tires soon,weather_query
+a quarter to two,datetime_query
+how's the weather in the capital city,weather_query
+current time in cpt,datetime_query
+should i wear raincoat before getting out,weather_query
+set the default audio setting,audio_volume_other
+play silent song,play_music
+comfort my ears with arijit singh,play_music
+decrease twenty percent,audio_volume_down
+tell me about this week's weather,weather_query
+i need to order some food from papa john's,takeaway_order
+turn off smart plug socket,iot_wemo_off
+hows mysore climate today,weather_query
+hot topic,news_query
+power off please,iot_wemo_off
+check if alarm is set for six am,alarm_query
+replay the musics,music_settings
+cut the songs in this musics,music_settings
+make a coffee please,iot_coffee
+what is the latest update on the new york bridge proposal,news_query
+any breaking news from the huffington post,news_query
+play some good song from my play list,play_music
+say a good joke for me right now,general_joke
+is the city cheaper or costlier to live,weather_query
+how safe is the city regarding law and order,weather_query
+can you please stop speaking,audio_volume_mute
+can you please order some food for me,takeaway_order
+i want you to play bohemian raphsody for me,play_music
+did i set an alarm to have tablets in the noon,alarm_query
+show me the latest news from the un,news_query
+adjust the lights to a lower setting please,iot_hue_lightdim
+will i need my snow boots this afternoon,weather_query
+what time is it in central time zone,datetime_query
+who is this on the radio,music_query
+what artist is this,music_query
+decrease brightness of lights,iot_hue_lightdim
+will it be a sticky night,weather_query
+should i take a sweater or a coat to work today,weather_query
+will i need sunscreen this afternoon,weather_query
+turn on favorite songs,play_music
+coffee,iot_coffee
+will it be rainy day tomorrow,weather_query
+hey olly turn off the light please,iot_hue_lightoff
+add selected song,play_music
+will i need sunscreen later,weather_query
+did i leave the light on in the garage,iot_hue_lightoff
+play rap music,play_music
+please start the coffee pot,iot_coffee
+make the coffee,iot_coffee
+don't speak for an hour,audio_volume_mute
+are storms likely today,weather_query
+how many minutes do i need to wait to pick up my food from china on the go,takeaway_query
+turn off porch light,iot_hue_lightoff
+turn off bedroom light at nine thirty p. m.,iot_hue_lightoff
+i want to hear the latest world news from today,news_query
+create an alarm for today at ten am,alarm_set
+should i open the sun roof,weather_query
+are there any alarms currently set,alarm_query
+hey what will the weather be like to today in los angeles california,weather_query
+store opinion on song,music_likeness
+hey order two wings with french fries from the chinese food store,takeaway_order
+info on this week weather,weather_query
+hey what time is it in dallas texas,datetime_query
+do you recommend an umbrellas,weather_query
+keep me up to date with the world news,news_query
+find out what song this is and tell me the name,music_query
+find funny jokes,general_joke
+i want to know today's weather,weather_query
+clean the floor,iot_cleaning
+delete alarm,alarm_remove
+please mute for five minutes,audio_volume_mute
+are sunglasses a good choice for today,weather_query
+make it brighter in here,iot_hue_lightup
+will i need an umbrella today,weather_query
+should i wear a jacket,weather_query
+hey olly i missed you,general_quirky
+how's the weather today,weather_query
+what's on your mind,general_quirky
+my day was full of work olly,general_quirky
+hey tell me more about my meetings today,general_quirky
+when is my friend's birthday coming up,general_quirky
+please see what you wrote for this question,general_quirky
+i do not know how to answer this question you left a word or two out,general_quirky
+i am going to work today,general_quirky
+i had a bad day,general_quirky
+i helped a poor needy today olly,general_quirky
+i'm so happy today i got tickets for the concert,general_quirky
+how old are you,general_quirky
+what is your name,general_quirky
+if you had to kill someone to save three people would you do it and if so why,general_quirky
+lets have a chat,general_quirky
+i had food as soon as i got up,general_quirky
+hey what is the weather like today,weather_query
+what would you recommend for me to read,general_quirky
+hey olly i met one of my old classmates today,general_quirky
+olly i just cleaned my car,general_quirky
+i hate how long the traffic jams get,general_quirky
+what's shakin bacon,general_quirky
+how are you feeling today,general_quirky
+what do you want to do today,general_quirky
+today i saw a bulldog,general_quirky
+do you think i should go to the theater today,general_quirky
+please tell me the score of the game,general_quirky
+my day was extremely hard,general_quirky
+i bought pre season baseball tickets,general_quirky
+olly i have to tell you about my day,general_quirky
+i went to the store,general_quirky
+i need to buy gas,general_quirky
+tell me some best tourist places to visit in america,recommendation_locations
+what's my upcoming week look like,calendar_query
+veganism,general_quirky
+plant based news,news_query
+what is a good iranian film from two thousand and sixteen,recommendation_movies
+what do you do with my data and information,general_quirky
+hey what has been happening interesting in sports lately,general_quirky
+what features do you have planned to release in the future,general_quirky
+my day was great,general_quirky
+give me some health tips,general_quirky
+how to get somewhere,transport_query
+what sound does a dog make,general_quirky
+what's happening in france today,news_query
+what's the weather next wednesday,weather_query
+my day is going well add a memo,general_quirky
+hello how is your day,general_quirky
+technology,general_quirky
+today i had a meeting with george,general_quirky
+today the following happened to me i had a meeting with george,general_quirky
+please know that today i had a meeting with george,general_quirky
+can you tell me a little about yourself,general_quirky
+today i searched all over for my phone and couldn't find it,general_quirky
+have you heard any good music lately,general_quirky
+is there a groomer in town for cats only,general_quirky
+trump,general_quirky
+are you smart,general_quirky
+anything on your mind,general_quirky
+the weather was bad today,general_quirky
+baseball scores,general_quirky
+what i like today,general_quirky
+web searches,general_quirky
+can you please advise,general_quirky
+new gadgets,general_quirky
+social media,social_query
+i was chased by a dog,general_quirky
+ask trivia questions,general_quirky
+how has your day been today,general_quirky
+has it been a busy day,general_quirky
+history,general_quirky
+are you happy,general_quirky
+mark today as the start of my diet,calendar_set
+is soft cheese better than hard,cooking_recipe
+i got promoted today it feels so good,general_quirky
+play videos,general_quirky
+hey olly do you like my girlfriend,general_quirky
+searching information online,general_quirky
+math,general_quirky
+what happens to me if you become sentient,general_quirky
+do you have a boyfriend,general_quirky
+plants,general_quirky
+love,general_quirky
+hi you there,general_quirky
+start a gossip,general_quirky
+where i went today,general_quirky
+when i came back from this place,general_quirky
+health,general_quirky
+parenting,general_quirky
+what is your age,general_quirky
+what do you think about future,general_quirky
+tell interesting news,news_query
+latest movies in theaters,general_quirky
+who are your developers,general_quirky
+video games,play_game
+best paid jobs in digital marketing in my area,general_quirky
+are you working for the n. s. a.,general_quirky
+what is the top searches in google today,general_quirky
+alexa how much do you know about me,general_quirky
+sticking to diet,general_quirky
+vacation spots,general_quirky
+do you know of any good free knitting patterns,general_quirky
+go on sweet talk me,general_quirky
+elections in up,news_query
+economic affairs,news_query
+hey i am having a bad day today what can i watch to cheer me up,general_quirky
+general health tips,general_quirky
+friend updates,general_quirky
+are you real,general_quirky
+cancel business meeting on wednesday,calendar_remove
+what do you know about fringe in edinburgh next year,general_quirky
+is there anything i should be reminded about,calendar_query
+remind me about my schedule for the afternoon,calendar_set
+cancel next meeting,calendar_remove
+cancel the breakfast at tiffany's house,calendar_remove
+add meeting reminder for sunday with my parents in law,calendar_set
+olly i am taking day off tomorrow,general_quirky
+put meeting with pawel for tomorrow ten am,calendar_set
+set first week of june as holiday in my calendar,calendar_set
+how many reminders do i have,calendar_query
+please clean my calendar,calendar_remove
+remove from my calendar meeting at nine am,calendar_remove
+remind me to wash the windows,calendar_set
+set an event for friday,calendar_set
+what is my next reminder,calendar_query
+set meeting with joanna on saturday four p. m.,calendar_set
+remove my next event,calendar_remove
+show me my meetings this friday,calendar_query
+show me my calendar event this friday afternoon,calendar_query
+remind me my mom's birthday a week before,calendar_set
+olly there's a good band playing tonight at nine at jazz bar i want to go,calendar_set
+remind me about the meeting tomorrow at six,calendar_set
+list out my schedule today,calendar_query
+give me a reminder notification on tomorrow's meeting at ten am,calendar_set
+is there any upcoming events,calendar_query
+set up a notification about tomorrow's meeting at ten,calendar_set
+schedule a meeting with the accounting department on two thirty p. m. on friday,calendar_set
+are there morning shows available,calendar_query
+can you give me the movie schedule,calendar_query
+remind me to pick up linda at five in the evening on seventh,calendar_set
+remind me tomorrow at ten am about the meeting,calendar_set
+set a reminder up next month to get my oil changed,calendar_set
+what is happening after one and before three p. m.,calendar_query
+delete events from calendar,calendar_remove
+set reminder to print the documents on tuesday morning,calendar_set
+is it friday,calendar_query
+erase all the events,calendar_remove
+remind me to take my medicine at nine am,calendar_set
+set reminder for noon to get lunch with boss,calendar_set
+are there any meetings set for next wednesday,calendar_query
+make sure there is no events on my calendar,calendar_remove
+remind me about my meeting an hour before it begins,calendar_set
+can i know what i have to do the next saturday at six p. m.,calendar_set
+can you remind my next meeting with my boss one hour before it will happen,calendar_set
+can you check the facts on this issue,calendar_query
+i need to confirm all meetings for today can the invite person,calendar_query
+add a reminder of a conference for tomorrow in new york,calendar_set
+i have a function at washington tomorrow remind it,calendar_set
+give me to do list,calendar_query
+show future events,calendar_query
+remind me at,calendar_set
+remove succeeding event,calendar_remove
+new event,calendar_set
+add a reminder to my calendar every year on this date,calendar_set
+when is the event going to start,calendar_query
+give me the schedule for today's events,calendar_query
+remove new year from calendar,calendar_remove
+what events are going in my town this week,recommendation_events
+set me a meeting next tuesday at eleven am with jesse,calendar_set
+remind me to start getting ready by five p. m. please,calendar_set
+add tal meeting on twenty first at seven,calendar_set
+schedule a meeting with matt at eleven am on thursday,calendar_set
+schedule a lunch meeting with brent on wednesday at noon,calendar_set
+give me a reminder twenty four hours before my friday meeting with edg,calendar_set
+search my calendar for my next event and notify me before it occurs,calendar_set
+cancel everything on my calendar,calendar_remove
+cancel the tomorrow's meeting from my calendar,calendar_remove
+add my car payment on the twelfth in my calendar,calendar_set
+remind me the day before my car is due,calendar_set
+what time is my doctor appointment on march thirty first,calendar_query
+will there any events downtown this weekend,calendar_query
+get rid of the events on the nineteenth from my calendar,calendar_remove
+what's my schedule like today,calendar_query
+could you repeat this event,calendar_set
+set a reminder to notify me one hour before lunch meeting,calendar_set
+is this program is scheduled,calendar_query
+for every odd numbered sunday set a reminder for,calendar_set
+set lunch every day at twelve thirty,calendar_set
+remind this event in future,calendar_set
+can you give me the details of upcoming annual function on twenty sixth march,general_quirky
+it's my mother's birthday today send me a notification every year on this date,calendar_set
+wake me at six am thursday so i have time for the meeting,calendar_set
+when is my next appointment with doctor smith,calendar_query
+do i have anything planned,calendar_query
+i am having a meeting on tomorrow set it,calendar_set
+remind me the meeting with allen on fifteenth march,calendar_set
+set a notification for three two and one hours before next week's english final,calendar_set
+can you remind me to take the garbage out on tuesday,calendar_set
+a good first impression,general_quirky
+did you place the reminder about the meeting for tomorrow,calendar_query
+where is the venue in which the marriage of tom is going to take place,calendar_query
+what are the events next week,calendar_query
+please remind me to call mom in half an hour,calendar_set
+remind me to send email to boss after one hour,calendar_set
+create a notification reminder for meeting tomorrow,calendar_set
+what are my pending tasks,calendar_query
+remind me of rita's birthday twenty four hours in advance,calendar_set
+remind me about my anniversary in one day advance,calendar_set
+get rid of all events with jeff,calendar_remove
+block one hour from ten tomorrow morning,calendar_set
+i am unavailable from four to six in the evening tomorrow mark my calendar,calendar_set
+schedule a one hour appointment for saturday,calendar_set
+remove the appointment with george adams from my calendar,calendar_remove
+please clear my calendar,calendar_remove
+what's for today,calendar_query
+do i have any appointments,calendar_query
+what is going on today from two four p. m.,calendar_query
+just let me know next weeks weather in california,email_query
+remind me to check the stew at six o'clock,calendar_set
+please show today meeting with clients,calendar_query
+is there any events planned for the next three months,calendar_query
+please schedule a meeting with this person,calendar_set
+i need a meeting to be schedule with this person,calendar_set
+remind me about the party tomorrow,calendar_set
+invite people to the calendar event,calendar_set
+inform my group that the new meeting date is tomorrow,calendar_set
+give me the time of the events,calendar_query
+remind me on fifth march of every year to arrange wedding anniversary presents,calendar_set
+do i have appointments today,calendar_query
+make new schedule for tomorrow meeting,calendar_set
+can you delete the next event,calendar_remove
+what is on the agenda for the four p. m. meeting with joe,calendar_query
+where in d. c. is that meeting at one p. m. on friday,calendar_query
+remind me everyday at two p. m. for lunch,calendar_set
+how much mehta willing to invest in my company in meeting which held today at five hundred and twenty p. m.,calendar_query
+thirteenth june is a day of election result please set it,calendar_set
+please add my pay days,calendar_set
+do i have anything going on,calendar_query
+please remind me about this tomorrow,calendar_set
+i want a meeting till three o'clock,calendar_set
+set my calendar to remind me to buy groceries every friday,calendar_set
+make a reminder of location a on calendar,calendar_set
+remind me tonight to pick up my dry cleaning at eight p. m.,calendar_set
+remind me about the meeting tomorrow one hour before,calendar_set
+meeting reminder,calendar_set
+birthday,calendar_set
+plan for tomorrow,calendar_query
+what is the plan today,calendar_query
+buddy adding event in your calendar,calendar_set
+please schedule a meeting with derrick in haysi at noon,calendar_set
+please set a meeting to discuss terrorism with fred on the next available meeting day,calendar_set
+meet with joe tomorrow at three,calendar_set
+remove meeting reminder for tuesday,calendar_remove
+what's was the upcoming event,calendar_query
+remind me when i am at the library to get a new library card,calendar_set
+mark april twenty as my brother's birthday,calendar_set
+add a reminder for april twenty as my bro's birthday,calendar_set
+cancel all my appointments after three p. m. today and inform me the details,calendar_remove
+can you list out my meetings today,calendar_query
+add a lunch with mike,calendar_set
+will you mark that i have a meeting with tom at three tomorrow,calendar_set
+in my calendar delete all of my golf events for the current month,calendar_remove
+include mike and jack to festival calendar,calendar_set
+what do i have coming up,calendar_query
+do i have anything planned for the twenty first,calendar_query
+set a reminder for this,calendar_set
+hey cancel all my other meetings and calls for second march as it is jim's birthday tag it as an event in your calendar,calendar_set
+hey olly cancel all my other meetings and calls for second march as it is jim's birthday tag it as an event in your calendar,calendar_set
+hey send a meeting invite to mr. ross for this friday's meeting and block my calendar for friday afternoon,calendar_set
+i need to something every monday set a reminder for it,calendar_set
+i need you to mark next monday,calendar_set
+clear my calendar for saturday,calendar_remove
+remind me every monday to take out the trash,calendar_set
+what reminders do i have,calendar_query
+add practice to calendar on feb four at king's park at two p. m.,calendar_set
+please add practice on feb four at king's park at two p. m.,calendar_set
+add shopping to my calendar for tomorrow,calendar_set
+do i have an appointment today,calendar_query
+remind me what i am doing on sunday afternoon,calendar_set
+remind me i take mom to the hairdresser's thursday at one thousand one hundred am,calendar_set
+is this true about this date,calendar_query
+erase all the events in the calendar,calendar_remove
+delete all events,calendar_remove
+let me know in two hours that i have to leave for my violin lesson that's at four p. m. at musicworkz,calendar_set
+what reminders did i set,calendar_query
+alert me when registration opens,calendar_set
+i have a meeting at noon today,calendar_set
+remind me to start supper this afternoon at five,calendar_set
+delete event from calendar,calendar_remove
+what's been happening for the last two months,news_query
+erase my calendar,calendar_remove
+what are my next three events,calendar_query
+what time will the soccer match be tonight,calendar_query
+clear haircut today,calendar_remove
+cancel dinner tonight,calendar_remove
+delete the next event today,calendar_remove
+give me an update on the election in one hour,calendar_set
+set a meeting between myself and john at two p. m. tomorrow,calendar_set
+do i need to do anything today,calendar_query
+alexa remove dinner with mike from my calendar,calendar_remove
+remind me to take out the garbage at six p. m.,calendar_set
+calendar event send invite bill malinda,calendar_set
+new meeting add bill and malinda as attendees,calendar_set
+open tasks delete future events,calendar_remove
+what do i have to do this week,calendar_query
+what are the upcoming concerts in dallas,calendar_query
+remove my appointment with my doctor on saturday please,calendar_remove
+put this event in a repeating pattern on my calendar,calendar_set
+can you make this event repetitive,calendar_set
+did i tell you to remind me something,calendar_query
+remind me the wedding on time to buy a present,calendar_set
+set a reminder for two days prior of the event,calendar_set
+is there valet service at the event,calendar_query
+what reminders do i have scheduled before noon tomorrow,calendar_query
+tell me when i have an event,calendar_set
+send an alert before meeting,calendar_set
+delete all events from my calendar,calendar_remove
+can you erase the haircut i have scheduled for friday,calendar_remove
+dorothy needs to talk to me about our divorce can you please set up a meeting as soon as i am available,calendar_set
+on monday the twentieth i need to have a conversation with greg about our weekend trip,calendar_set
+show me my meeting for the next month,calendar_query
+what events are upcoming today,calendar_query
+what day does easter fall on,datetime_query
+remind me to get the oil changed,calendar_set
+remind me to something in sometime,calendar_set
+how many people are attending my next meeting,calendar_query
+what time is my next appointment,calendar_query
+what's my schedule today,calendar_query
+erase my appointment for march seven,calendar_remove
+do i have a date on friday,calendar_query
+do i have a sales meeting today,calendar_query
+schedule a sales meeting for wednesday at eleven am,calendar_set
+set a reminder in one hour for my bread to bake,calendar_set
+what is the event agenda,calendar_query
+i'd like to set a date for this week,calendar_set
+email my appointments to reschedule,email_sendemail
+set a birthday event for martin,calendar_set
+please add supervision to my calendar,calendar_set
+during the timeframe of february one and march sixteen what meetings occurred,calendar_query
+where is mary's birthday party being held,calendar_query
+create a meeting event in my calendar,calendar_set
+schedule a meeting event in my calendar,calendar_set
+what reminders do i still have,calendar_query
+set a reminder for the thirteenth that i have a lunch with dale,calendar_set
+did i leave myself any reminders,calendar_query
+do i have any remainder about birthday party,calendar_query
+one thousand two hundred and thirty p. m. already you will have a meeting in ten mins,calendar_query
+can you delete the dentist appointment,calendar_remove
+what date is it,calendar_query
+please remind me to go to the post office,calendar_set
+don't let me forget to buy a gift for my sister,calendar_set
+how long will my lunch meeting be on tuesday,calendar_query
+clear everything off my calendar for the rest of the year,calendar_remove
+i would need to be notified of church services on sundays at eleven am,calendar_set
+add tomorrows dinner date to the calendar,calendar_set
+i need next week's lunch put on the calendar,calendar_set
+please alert me a day before jeff's birthday,calendar_set
+send me an alert and hour before my next appointment,calendar_set
+thirty minute reminder on meeting for tuesday,calendar_set
+remove my next scheduled appointment please,calendar_remove
+i need to set reminder on fifteenth march,calendar_set
+remove birthday from calendar,calendar_remove
+set a reminder about todays faculty meeting at four,calendar_set
+open a reminder about next weeks managers meeting on tuesday,calendar_set
+add to calendar and repeat,calendar_set
+save event for five p. m. to six p. m. on march eighteenth,calendar_set
+remove next monday's meeting,calendar_remove
+yesterday at noontime in times square what was the protest about,news_query
+i need to know more about the parade this weekend,general_quirky
+i want to know more about the fair this weekend,general_quirky
+when is my brunch with jennifer,calendar_query
+is it wednesday,datetime_query
+let me know when the meeting is gonna happen,calendar_set
+what is going on on december fourth,calendar_query
+remind me about this,calendar_set
+make march eighteen a repeating appointment for pearl's birthday,calendar_set
+create reminder for laundry at eight p. m.,calendar_set
+i want to do laundry at eight p. m. create reminder,calendar_set
+remind me of my meeting on,calendar_set
+set a reminder every day at noon to take medication,calendar_set
+tell me more about my events,general_quirky
+i want to know more about this event,calendar_query
+delete my dinner tomorrow,calendar_remove
+remove my dinner event for monday,calendar_remove
+please alert me,calendar_set
+remind me to go to dinner with dave on friday at five p. m.,calendar_set
+add a meeting at the office with brian for three p. m. on tuesday,calendar_set
+tell me current events between yesterday and this morning,calendar_query
+cancel all my appointments,calendar_remove
+get rid of all my scheduled events,calendar_remove
+please set lunch meeting at twelve p. m. for every wednesday in march,calendar_set
+please modify my calendar with this event,calendar_set
+set a reminder for my daughters birthday,calendar_set
+please put event into my calendar and mark it as a repeating event,calendar_set
+show me my events,calendar_query
+what are my plans for the month of may,calendar_query
+i have a nine am meeting on wednesday send me a reminder,calendar_set
+what is scheduled on my calendar today,calendar_query
+add jane's birthday party for tomorrow two p. m. at one hundred and twenty three main on my calendar,calendar_set
+what does my schedule look like today,calendar_query
+tell my meetings for tomorrow morning,calendar_query
+let's go through all pending reminders,calendar_query
+delete calendar item,calendar_remove
+add event to calendar app,calendar_set
+meeting reminders from three to five,calendar_query
+will you remind me of the dentist appointment i have in two hours,calendar_set
+remind me about,calendar_set
+remind me please,calendar_set
+add a meeting to my calendar for nine am with tom,calendar_set
+do i have anything scheduled for today,calendar_query
+delete my meeting for two o'clock p. m. today,calendar_remove
+will you send a calendar invite out to james and alice for brunch at eleven am on tuesday,calendar_set
+will you mark that i am busy for an event tomorrow at two p. m.,calendar_set
+what information should i know for my meetings today,calendar_query
+remind me that i have a birthday party on the thirtieth,calendar_set
+remind me to pick up mark at the airport at six p. m.,calendar_set
+remind me to water my plants every tuesday thursday and saturday,calendar_set
+erase that from my calendar,calendar_remove
+can you remind me to order the turkey three weeks before thanksgiving,calendar_set
+i want to make a note on my calendar for the event tomorrow at the library,calendar_set
+add conference call at four p. m. to my reminders for today,calendar_set
+notify me about the event in my calendar,calendar_set
+remind me of the event in my calendar,calendar_set
+erase all events from my calendar,calendar_remove
+within the past three months how many meetings did i have with mr. richards,calendar_query
+remove events from calendar,calendar_remove
+where is the kiss concert,calendar_query
+where is my meeting at nine am,calendar_query
+is today saint patricks day,calendar_query
+is it any ones birthday,calendar_query
+the event will include walter and gemma,calendar_set
+please set a reminder in my calendar for my meeting on march twenty five,calendar_set
+set a repeating reminder alarm for the facebook event i have to attend on seventh april,alarm_set
+delete all dates,calendar_remove
+set an alert for two p. m.,alarm_set
+tell me my schedule for later this afternoon,calendar_query
+put my dinner at red lobster on the calendar for today at nine,calendar_set
+do i have a meeting on saturday march twenty fifth,calendar_query
+is jessica's birthday on april twelfth,calendar_query
+delete upcoming event,calendar_remove
+delete the shopping trip i have scheduled march twenty third,calendar_remove
+is my schedule for july seventh completely open,calendar_query
+am i free at four p. m.,calendar_query
+do i have a meeting this afternoon,calendar_query
+more information on this event,calendar_query
+show pending reminders,calendar_query
+info of the upcoming events,recommendation_events
+what do i have scheduled for the nineteenth at two p. m.,calendar_query
+send me a reminder of my meeting with tom next friday,calendar_set
+is calendar event true,calendar_query
+do i have anything set for the fourth of july this year,calendar_query
+clear my next activity,calendar_remove
+delete all events in calendar,calendar_remove
+remind upcoming meeting with eminem,calendar_set
+olly set alarm for reminder,alarm_set
+remind me to call mom every tuesday at ten am,calendar_set
+set a reminder about tomorrow's meeting at nine am,calendar_set
+make an alarm for the meeting with bob at seven today,alarm_set
+delete it,calendar_remove
+set repeating reminder for every sunday,calendar_set
+information of recent events,calendar_query
+set event date in calendar with others,calendar_set
+mention event in calendar with others,calendar_set
+give me today's calendar events after six p. m.,calendar_query
+what time is my appointment on april fourth,calendar_query
+what is my schedule for the day,calendar_query
+delete all the events in my calendar,calendar_remove
+hayathis daughter baby shower,calendar_set
+add event for meeting with james,calendar_set
+please remove remainder,calendar_remove
+open meeting time,calendar_query
+i want you to make alert in the evening about upcoming meeting,calendar_set
+remind me two days before my wife birthday,calendar_set
+tell me something to remind this week,calendar_set
+what are meeting scheduled for today,calendar_query
+just set me reminders about pending bill payments,calendar_set
+just let me know the important meetings with my boss over the week,calendar_set
+ok google delete eric's b. day from the calendar,calendar_remove
+make event,calendar_set
+show meetings,calendar_set
+remove anniversary event from my calendar,calendar_remove
+is the thanks giving event on fourteenth of this month true,calendar_query
+please set a notification on twenty third october about meeting with my colleague,calendar_set
+clear my calendar all events,calendar_remove
+meetings from twenty to twenty five june,calendar_query
+remove from calendar my medical appointment for today,calendar_remove
+rahul marriage reminder,calendar_query
+upcoming events in calendar,calendar_set
+set a meeting event reminder with mona on tuesday,calendar_set
+event reminder mona tuesday,calendar_set
+alert me at the time of the event,calendar_set
+what information do i have on reminders,calendar_query
+can you put in lee's birthday on the twenty second of june,calendar_set
+please remove that event,calendar_remove
+wipe everything on my calendar,calendar_remove
+remove tonights dinner with shelly,calendar_remove
+is there a meeting on my calendar this afternoon,calendar_query
+what time does the zach brown concert on june third begin,calendar_query
+exhibition two thousand and seventeen mass on mar twenty five make a note of it on the corresponding date,calendar_set
+do add this on my calendar,calendar_set
+make a repeating reminder for this calendar event,calendar_set
+could you reschedule my meeting,calendar_query
+what days do i have booked,calendar_query
+show me the events in my work calendar for next week,calendar_set
+at what time is the italian cafe closed between lunch and dinner,calendar_query
+when does the super bowl officially start,qa_factoid
+what time is the black tie gala dinner supposed to begin,calendar_query
+please add dinner with mary to my calendar on saturday,calendar_set
+on friday please put dentist appointment at three,calendar_set
+remind,calendar_set
+has my calendar been updated in the last ten minutes,calendar_query
+cancel my plans to pick up my parents from the airport,calendar_remove
+research the clients that will attend the meeting,calendar_set
+please set this date to repeat,calendar_set
+please remove this event from my calendar,calendar_remove
+what do i have planned for this week,calendar_query
+please check my reminders,calendar_query
+play my radio station,play_radio
+start b. b. c. radio,play_radio
+someone play the radio,play_radio
+play my station,play_radio
+can you turn on the radio,play_radio
+open pandora,play_radio
+go to channel one hundred and six point nine,play_radio
+turn on the radio and play channel one hundred and six point nine,play_radio
+i want to listen radio,play_radio
+please tune nine hundred and thirty eight f. m. radio mirchi,play_radio
+open the radio app,play_radio
+tune in to eight hundred and ninety seven f. m.,play_radio
+just play nine hundred and thirty seven f. m.,play_radio
+only nine hundred and ninety nine f. m. is to be played on the radio,play_radio
+play f. m.,play_radio
+put on,play_radio
+play an f. m.,play_radio
+play the oldies station,play_radio
+tune to classic hits,play_radio
+play kiss f. m. for me,play_radio
+start the radio now,play_radio
+make the radio turn on now,play_radio
+start pandora,play_radio
+please play radio station one right now,play_radio
+please scan the am dial on the radio right now,play_radio
+play,play_radio
+alexa change the radio station,play_radio
+play the radio please,play_radio
+start some music play the radio,play_radio
+start radio channel eight hundred and eighty nine,play_radio
+listen to radio,play_radio
+radio channels,play_radio
+let's play hits on the radio,play_radio
+let's play music hits,play_radio
+i want you to go to hot one hundred and five on the radio,play_radio
+play c. n. n. radio,play_radio
+hey olly play the radio,play_radio
+play nine hundred and eighty nine the radio station,play_radio
+start sirius xm radio channel,play_radio
+start radio play,play_radio
+i want to hear a station that plays r. & b.,play_radio
+can you play me a rap song on the radio,play_radio
+play the song let it go,play_music
+play nineties hip hop,play_music
+turn on a country music station,play_radio
+could you please play the f. m. station which plays pop songs,play_radio
+olly let's hear wgrr one hundred and three point five,play_radio
+please find the radio station currently playing howard stern,play_radio
+play any pop f. m. channel,play_radio
+play the last doctor who radio broadcast,play_radio
+turn program on xmtune,play_radio
+turn on some n. p. r. and play them out of my speakers,play_radio
+play the sweet song on radio,play_radio
+let me listen the latest news program on radio,play_radio
+i want to hear the bob cesca show,play_radio
+play romantic music in nash f. m. ninety two point seven,play_radio
+play station gx in the radio,play_radio
+could you please play this program for me,play_radio
+play radio with nonstop songs,play_radio
+play britney spears live concert series,play_radio
+ok google play one hundred and six point seven,play_radio
+change the station to eighty two point four,play_radio
+play bhuli bisri yaadien program on ninety one point three f. m.,play_radio
+search for podcasts that cover men's issues,play_podcasts
+f. m. ninety three point five radio songs,play_radio
+play country radio,play_radio
+play me this mornings show from one hundred and one point nine,play_radio
+play prairie home companion on the car radio,play_radio
+can i get delilah on the radio in the bedroom,play_radio
+could you please help me in listening to the radio,play_radio
+play radio mirchi for me,play_radio
+radio please,play_radio
+start my playlist on i heart radio,play_radio
+open spotify and open workout,play_radio
+play netflix on my p. s. four,play_radio
+play me an upbeat song through your speakers,play_music
+i want to listen to be more chill by ned vizzini,play_audiobook
+can you play my favorite audio book of tarzan,play_audiobook
+resume my audio book from karl pilkington,play_audiobook
+can you put on the giver,play_audiobook
+resume harry potter from the place i have stopped listening to last time,play_audiobook
+pause the book,play_audiobook
+open audio book history of rome,play_audiobook
+resume the playback of a child called it,play_audiobook
+play biography of jackie kennedy,play_audiobook
+play jingle bells,play_music
+open media play jingle bells,play_music
+resume animal farm,play_audiobook
+resume harry potter book four,play_audiobook
+stop audiobook,play_audiobook
+open davinci code audiobook,play_audiobook
+could you please play the classical music for me,play_music
+play pride and prejudice,play_audiobook
+olly let's listen to hunt for read october,play_audiobook
+stop play,play_audiobook
+hold,play_audiobook
+play audiobook of planets,play_audiobook
+keep reading the audiobook to me,play_audiobook
+please continue reading audiobook,play_audiobook
+play the romantic songs,play_music
+resume born to run,play_music
+open harrypotter audiobook and play from last played,play_audiobook
+please play this playback on audiobook,play_audiobook
+resume the song from the audiobook by the beatles,play_audiobook
+continue the last chapter of the audio book i was listening to,play_audiobook
+resume joes book from where i left off last time,play_audiobook
+alexa start from my last session of joes book,play_audiobook
+start audio playback of twilight again,play_audiobook
+play the twilight book,play_audiobook
+my choice to play an audio from first,play_audiobook
+play my favorite book,play_audiobook
+read some more of the daisy goodwin book for me,play_audiobook
+please resume my audiobook,play_audiobook
+open audiobook,play_audiobook
+please play the notebook audio,play_audiobook
+keep playing secret garden,play_audiobook
+start chapter five of physics for future presidents,play_audiobook
+playback tom clancy splinter cell,play_audiobook
+play me a random audio book that has to do with love,play_audiobook
+keep playing war and peace,play_audiobook
+olly how long should i boil the eggs,cooking_recipe
+how do i make a pizza,cooking_recipe
+how long should i boil an egg,cooking_recipe
+tell me the recipe of,cooking_recipe
+how long should i boil the egg,cooking_recipe
+olly how long should i boil the egg,cooking_recipe
+find me a chocolate cake recipe,cooking_recipe
+how do i cook butter chicken,cooking_recipe
+what all goes into a red velvet cake,cooking_recipe
+how long does it take to make vegetable lasagna,cooking_recipe
+give me a cooking tutorial,cooking_recipe
+show me a video on cooking fried chicken,cooking_recipe
+what can i substitute butter with,cooking_recipe
+what is the best oven temperature to roast potatoes,cooking_recipe
+what is the best way to cook pasta al dente,cooking_recipe
+knowledge about food processing,cooking_recipe
+what's the easiest way to cook pasta,cooking_recipe
+what ingredient can be used instead of saffron,cooking_recipe
+what conducts heat better copper bottomed pots or cast iron,cooking_recipe
+hey robot give me a list of ingredients for welsh rarebit,cooking_recipe
+please search the internet and display the suitable youtube videos for cooking italian foods,cooking_recipe
+cook me some oats,cooking_recipe
+what is the menu today add some boiled vegetables also to it,cooking_recipe
+boiling,cooking_recipe
+can you tell me the recipe to cook pav bhaji,cooking_recipe
+thanksgiving turkey cooking procedure in five sentences is what,cooking_recipe
+please tell me how to i bake twelve oatmeal cookies,cooking_recipe
+what do i need to make lamb pathia,cooking_recipe
+instructions to make a meal,cooking_recipe
+i need a recipe that is from ingredients on my shopping list,cooking_recipe
+i need good ideas for cooking,cooking_recipe
+can you give me a recipe for homemade chicken noodle soup,cooking_recipe
+how do i make a turkey,cooking_recipe
+tell me how to make a poor boy sandwich,cooking_recipe
+how do i make pizza,cooking_recipe
+what's the recipe for fried chicken,cooking_recipe
+what should i make for dinner,cooking_recipe
+baking times for chicken in the oven,cooking_recipe
+can you substitute baking soda for baking powder,cooking_recipe
+find a recipe for dinner tonight,cooking_recipe
+what should i cook for supper,cooking_recipe
+let's cook meatballs together,cooking_recipe
+tell me how to cook meatballs,cooking_recipe
+can i get a recipe for tuna,cooking_recipe
+how is lasagne made,cooking_recipe
+i would like a cheeseburger,cooking_recipe
+do you know how to cook risotto,cooking_recipe
+do you know recipe for risotto,cooking_recipe
+how long should i cook a steak to achieve medium rare,cooking_recipe
+i need a recipe of veg pulav,cooking_recipe
+how long do you cook a fifteen pound turkey,cooking_recipe
+what is the difference between bake and broil,cooking_recipe
+how long should i cook a steak to be medium,cooking_recipe
+how to make taco,cooking_recipe
+i need to know how to make stuffed peppers,cooking_recipe
+how long do i cook maccoroni,cooking_recipe
+look for apple pie recipe,cooking_recipe
+what's the recipe for fish soup,cooking_recipe
+how to cook spaghetti squash,cooking_recipe
+how many eggs do i need for an omelet,cooking_recipe
+show me the best recipe for spaghetti,cooking_recipe
+how is rice prepared,cooking_recipe
+list of famous biryani recipes,cooking_recipe
+recipes that can be cooked in an hour,cooking_recipe
+search in the web for buying bakeware for muffins,cooking_recipe
+find the recipe for sambar in cookingforu application,cooking_recipe
+what ingredients do i need to bake a large cake,cooking_recipe
+it must be taste,cooking_recipe
+let me know the recipe for preparing pasta,cooking_recipe
+play a game with me,play_game
+launch super mario,play_game
+play scrabble with me,play_game
+open chess app and begin game,play_game
+let's play global thermonuclear war,play_game
+lets play battleship,play_game
+please play clash of clans,play_game
+please begin clash of clans,play_game
+play me a game of tic tac toe,play_game
+play game with me,play_game
+could you please play temple run game for me,play_game
+launch game,play_game
+play ping pong,play_game
+play me in tic tac toe,play_game
+play football with me,play_game
+i want to play fifa seventeen,play_game
+let's play,play_game
+open saga,play_game
+olly play poker with me,play_game
+play for me the game harry potter and the chamber of secrets,play_game
+please open chess game i would like to play with you,play_game
+start a game and play with me,play_game
+let's play you'll be the keeper and never change position,play_game
+play racing,play_game
+play papa pear saga,play_game
+bring up papa pear saga,play_game
+play chess,play_game
+play game,play_game
+play a game of contra as a second player,play_game
+we should play nfs at high speed,play_game
+start a competitive crossword for us,play_game
+please open and play chess with me,play_game
+open games,play_game
+open parcheese game for you and i,play_game
+what else is missing in the diary,lists_query
+please clean my shopping list,lists_remove
+delete the first item on the list,lists_remove
+remove my task list,lists_remove
+any special events on my list,lists_query
+remove events from my list,lists_remove
+delete item,lists_remove
+what i am going to do today,lists_query
+what's on my to-do list,lists_query
+get rid of a list,lists_remove
+i need to create a new to do list,lists_createoradd
+help me start my kitchen list,lists_createoradd
+what is on my to do list,lists_query
+remove pencil from stationary,lists_remove
+may i have a list of five star hotels in paris,qa_factoid
+add broccoli to my grocery list,lists_createoradd
+add the post office to my list of errands for saturday,lists_createoradd
+remove list item,lists_remove
+list everything left on my query,lists_query
+i want to make this week's shopping list,lists_createoradd
+delete from playlist my old english songs list,lists_remove
+remove my car payment on my calendar,lists_remove
+remove the list,lists_remove
+how the to do list for today,lists_query
+please repeat my shopping list,lists_query
+can you create a list for me,lists_createoradd
+delete all lists,lists_remove
+remove the old music list,lists_remove
+check my to do list,lists_query
+android,lists_query
+give me all my lists,lists_query
+reset my locations list,lists_remove
+show me the contents of the list,lists_query
+remove the second row from the list,lists_remove
+please update my grocery list with one gallon of two percent milk,lists_createoradd
+search the item,lists_createoradd
+add paav bhaji in menu card,lists_createoradd
+create a list that is available,lists_createoradd
+add detergent to the list of things i need to buy,lists_createoradd
+add red wine to my shopping list,lists_createoradd
+remove the list called party time,lists_remove
+recite the schedules of the list,lists_query
+please remove the following list,lists_remove
+trash the current list,lists_remove
+add spent five dollars in my expenses list,lists_createoradd
+what is on my to do list today,lists_query
+what lists do i have queried,lists_query
+if there is event of show then remove it,lists_remove
+replace,lists_remove
+inform me on the items on the list,lists_query
+add this to the list,lists_createoradd
+create a new list,lists_createoradd
+can you remove this item from the list,lists_remove
+read what is on my list,lists_query
+can you please add an item to my grocery list,lists_createoradd
+remove that item,lists_remove
+what did i put down already on the walmart list,lists_query
+throw away my to do list please,lists_remove
+clear out the shopping list,lists_remove
+what items are on my shopping list,lists_query
+read me my list for shopping,lists_query
+tell me that list i wrote two days ago,lists_query
+remove cereal from my shopping list,lists_remove
+remove my dentist's appointment from today's schedule,calendar_remove
+do i have a grocery list ready,lists_query
+clear my activities list for today,lists_remove
+delete item from list,lists_remove
+i need to make a list,lists_createoradd
+read my grocery list,lists_query
+please show me the list that i have,lists_query
+delete last item listed,lists_remove
+add bananas to my shopping list,lists_createoradd
+add toothpaste to my shopping list,lists_createoradd
+create a playlist,lists_createoradd
+olly clear the list,lists_remove
+clear the list,lists_remove
+delete list for groceries,lists_remove
+erase all,lists_remove
+olly what do i have planned next,calendar_query
+remove milk from my grocery list,lists_remove
+i don't have enough money to buy the nintendo switch right now can you please remove it on my amazon wishlist,lists_remove
+remove this list from the others,lists_remove
+what are my available lists,lists_query
+take that off there,lists_remove
+need to check my list,lists_query
+new list,lists_createoradd
+olly anything else left on the list,lists_query
+delete my list,lists_remove
+make a grocery list please,lists_createoradd
+delete item from my list,lists_remove
+please add list of things to buy for party,lists_createoradd
+olly read my lists to me,lists_query
+begin a new list,lists_createoradd
+let me hear my list,lists_query
+what is on my playlist,lists_query
+please remove my list of favorite albums,lists_remove
+please add sugar to my grocery list,lists_createoradd
+make a new shopping list,lists_createoradd
+how many lists do i have in contacts,lists_query
+what groups are listed in my contacts,lists_query
+remind me of how many lists i have,lists_query
+scratch that one from the list,lists_remove
+delete the last phrase,lists_remove
+what's on your list right now,lists_query
+let me know the list,lists_query
+put hamburger on my grocery list,lists_createoradd
+delete my to do's for this week,lists_remove
+on my to dos remove mop kitchen,lists_remove
+add bob to my list of contacts,lists_createoradd
+say the list,lists_query
+remove shopping list,lists_remove
+delete to do list,lists_remove
+add new item to list,lists_createoradd
+add to list,lists_createoradd
+get rid of the list google,lists_remove
+please add oranges to my grocery list,lists_createoradd
+how many lists do i have,lists_query
+what lists are in my notebook,lists_query
+take out the milk from the shopping list,lists_remove
+get rid of tax list from nineteen ninety,lists_remove
+what are my current list,lists_query
+list items on my work list,lists_query
+give me the details on purchase order,lists_query
+remove the guest list i created last week,lists_remove
+set list,lists_createoradd
+please find all name start with alphabetic of a and create a list,lists_createoradd
+add business contacts to contact list,lists_createoradd
+check recent to do list,lists_query
+please create new list,lists_createoradd
+i want to remove apples from list,lists_remove
+away off from list,lists_remove
+open google keep,lists_query
+trash my list,lists_remove
+give me all available lists,lists_query
+list all the lists on this device,lists_query
+add a wrist watch to the shopping list,lists_createoradd
+my party planning,calendar_query
+i have my clothes list,lists_query
+find the list,lists_query
+important house information,lists_query
+list,lists_query
+please create a new list for me,lists_createoradd
+read back my grocery list to me,lists_query
+olly play next recording,play_podcasts
+jump to next podcast,play_podcasts
+next,play_podcasts
+play the next one,play_podcasts
+play a podcast from my library,play_podcasts
+find an interesting podcast about last pritzker price winners,play_podcasts
+play next podcast,play_podcasts
+play next,play_podcasts
+play next episode of harry potter by j. k. rowling,play_audiobook
+go to the podcast and play the next episode in friends,play_podcasts
+play the young turks podcast,play_podcasts
+up load all my podcast,play_podcasts
+play last libertarian podcast,play_podcasts
+play next reason podcast,play_podcasts
+play that podcast i was listening to yesterday,play_podcasts
+play the next episode of a podcast,play_podcasts
+what are todays top podcasts,play_podcasts
+play podcast for the philadelphia eagles content,play_podcasts
+show me the best podcast of rock songs having good rating,play_podcasts
+play and shuffle all slow music songs,play_music
+play my most watched podcast,play_podcasts
+does allearsnet have a new podcast,play_podcasts
+find the latest disney podcast,play_podcasts
+move to the next episode of hipsterhood,play_podcasts
+play next episode of podcast,play_podcasts
+olly start the podcast over that i started last night,play_podcasts
+show me podcasts,play_podcasts
+shadi special podcast play it,play_podcasts
+go back to previous episode of podcast,play_podcasts
+play me john's podcast,play_podcasts
+i want to listen to podcast,play_podcasts
+can you please download my podcast file available in internet and play it once,play_podcasts
+please skip to the next podcast episode,play_podcasts
+start the next episode,play_podcasts
+play duncan trussel's latest podcast,play_podcasts
+start playing my most recent podcast,play_podcasts
+go backward thirty seconds,play_podcasts
+vitaly channel,play_podcasts
+most viewed list,lists_query
+start the gilmore guys,play_podcasts
+please play the podcast for me,play_podcasts
+please go to the next episode of the podcast,play_podcasts
+please play the latest bill simmons podcast,play_podcasts
+i want to listen to the latest mike and mike podcast,play_podcasts
+start podcasts on n. f. l.,play_podcasts
+move to next section,play_podcasts
+move on to the next podcast episode,play_podcasts
+go back to the last episode in this podcast,play_podcasts
+i want to listen to a sports podcast,play_podcasts
+play the most recent podcast for this american life,play_podcasts
+play my favorite podcast please,play_podcasts
+resume series podcast,play_podcasts
+play the previous podcast,play_podcasts
+start playing ringcast,play_podcasts
+play the next show on podcast,play_podcasts
+next button,play_podcasts
+replay my last played podcast,play_podcasts
+olly can we listen to reply all podcast,play_podcasts
+lets hear the united states of anxiety podcast,play_podcasts
+i want to see the next podcast available,play_podcasts
+hey play my favorite podcast from list,play_podcasts
+add podcast favorites to playlist and start,play_podcasts
+start next podcast,play_podcasts
+play all order of the green hand from previous week,play_podcasts
+i want you to play the podcast,play_podcasts
+what can i do in berlin,recommendation_events
+what's happening around my town,recommendation_events
+is there anything happening on jazz scene around edinburgh,recommendation_events
+any cultural events in california,recommendation_events
+please let me know the dog shows events going on in my home town,recommendation_events
+what movie can i watch tonight on the theater here in boston,recommendation_events
+give the list of theaters in the vicinity,recommendation_locations
+give me the list of circus shows going on in the city right now,recommendation_events
+what gun shows are in tulsa,recommendation_events
+are there any events going on downtown tonight,recommendation_events
+where is the pharmacy in leavenworth,recommendation_locations
+what movies are showing in cinema today,recommendation_movies
+what movie should i watch today,recommendation_movies
+what movies are going around me,recommendation_movies
+what events are happening soon,recommendation_events
+show me events in sacramento,recommendation_events
+both young drivers and provisional drivers crash more often than other drivers because they have not yet had the wide range of experiences they need to drive safely by themselves research has shown that driving experience is a major factor in reducing road crashes and that the safest time for young drivers is when they are driving under supervision while learning,recommendation_events
+olly i'm looking for a bar do you know a good one,recommendation_locations
+olly i'm looking for some dress shows can you find clothing stores within one mile,recommendation_locations
+locate me the amazon restaurants,recommendation_locations
+i would like to know the best rating pubs in the local area,recommendation_locations
+please show me marathon nearby me,recommendation_events
+i would be happy if you update me the events going on our area,recommendation_events
+do you have any suggestion action movies,recommendation_movies
+show me reviews of my nearest location food court,recommendation_locations
+show me painting exhibition in bay area,recommendation_events
+what shops are round here,recommendation_locations
+swimming,recommendation_events
+how is the new movie swat,recommendation_movies
+olly what are new drama movies opening this weekend,recommendation_movies
+what shops are within ten miles,recommendation_locations
+cisco system,recommendation_movies
+olly what events are happening in pondichery this weekend,recommendation_events
+any events this weekend in pondichery,recommendation_events
+find an oscar nominee movie,recommendation_movies
+where is a good wine bar near me,recommendation_locations
+are there any special events near me this weekend,recommendation_events
+which bar has the most affordable drinks near sixth street,recommendation_locations
+what's the next event at the library,recommendation_events
+are there any good pizza places around here,recommendation_locations
+what movies are playing tonight,recommendation_movies
+look for shopping mall in sacramento for women's clothes,recommendation_locations
+where can i go tonight,recommendation_events
+what's happening around me,recommendation_events
+are there any crafts fairs happening in this area,recommendation_events
+anything interesting going on in the bay area,recommendation_events
+olly hit me up with some exciting events in the bay area,recommendation_events
+movies with good reviews,recommendation_movies
+tell me the local events,recommendation_events
+what is the highest rated movie now out,recommendation_movies
+recommend a movie for me,recommendation_movies
+is there a sporting event tomorrow in chicago,recommendation_events
+recommend a movie playing in my area,recommendation_movies
+is there a food festival in the area,recommendation_events
+search for local shops,recommendation_locations
+what's going on around here this weekend,recommendation_events
+olly tell me about activities in my area this weekend,recommendation_events
+anything good happening this weekend in the area,recommendation_events
+olly i need a drink,iot_coffee
+i need a drink,iot_coffee
+what are some theme parks nearby,recommendation_events
+what movies are out this week,recommendation_movies
+please look up local restaurants that are open now,recommendation_locations
+what should i watch today,recommendation_movies
+can you find me a furniture store near me,recommendation_locations
+what are some restaurants near me,recommendation_locations
+where is the nearest walmart,recommendation_locations
+where is a theater in my area,recommendation_locations
+tell me what shops are nearby,recommendation_locations
+is there anything special going on nearby,recommendation_events
+look up movies near me,recommendation_movies
+what's a movie in theaters that doesn't suck,recommendation_movies
+tell me all events for today in my city,recommendation_events
+olly please list the best clothing shops near me,recommendation_locations
+are there any fun events in la today,recommendation_events
+find gluten free bakery near me,recommendation_locations
+tell me what clothing stores are within five miles of me,recommendation_locations
+i need to find a gift what stores are within a one mile radius,recommendation_locations
+what's happening around town,recommendation_events
+what shops are near me,recommendation_locations
+when does panama city mall open,recommendation_events
+refer local current events,recommendation_events
+show me nearby musical events,recommendation_events
+kung fu panda three,recommendation_movies
+book me a taxi to leith in half an hour,transport_taxi
+i need to go to dundee at five am on sunday by train,transport_ticket
+olly book me a ticket to paris on eurostar this weekend,transport_ticket
+can you book an uber for me,transport_taxi
+can you book an uber tomorrow,transport_taxi
+can you book an uber after i left for office,transport_taxi
+can you book a train ticket,transport_ticket
+book my train ticket from las vegas to los angeles,transport_ticket
+what are the traffic conditions on the one hundred and one,transport_traffic
+how do i get to the train station for a ticket,transport_query
+call city cab to airport,transport_taxi
+get city cab here to airport,transport_taxi
+google train tickets to washington d. c.,transport_ticket
+please purchase a train ticket for this weekend,transport_ticket
+what is the traffic like on my commute home at five,transport_query
+book a taxi to go to the movies at one,transport_taxi
+when is the next train to glasgow from aberdeen,transport_query
+olly find the nearest uber,transport_taxi
+get me the local train timing to destination cstm,transport_query
+what time are the trains going to chennai leaving,transport_query
+tell me about city traffic,transport_traffic
+how is the traffic presently near central park road,transport_traffic
+tell me my options for a train to los angles next wednesday or thursday,transport_query
+california,transport_query
+new york,transport_query
+please book a train ticket from london to manchester,transport_ticket
+is there a traffic jam on my route,transport_traffic
+ticket for bombay,transport_ticket
+ticket for delhi,transport_ticket
+show me the train schedules to the metropolitan opera house,transport_query
+call me a taxi olly,transport_taxi
+book a first class ticket in the next train to miami,transport_ticket
+book me a train ticket,transport_ticket
+give me the list of available train tickets from edinburgh to leeds,transport_query
+call yellow cab,transport_taxi
+book a train ticket for one one way for this tuesday at nine am,transport_ticket
+can you please book train tickets for two for this friday,transport_ticket
+check time of ten thousand eight hundred and eighty seven train from luni station on tuesday,transport_query
+give me the train time,transport_query
+is there a connecting train from london to paris and what time,transport_query
+what's the best way to sheffield,transport_query
+what is the first metro to d. c.,transport_query
+get me a uber,transport_taxi
+book a train ticket from baltimore maryland to new york new york,transport_ticket
+find a taxi to book,transport_taxi
+tell me today's direction,transport_query
+when does the next train traveling the city leave here,transport_query
+where is the nearest gas station,recommendation_locations
+what is the current traffic situation,transport_traffic
+fastest route to turiellos,transport_query
+tell me the train arrival time to new york,transport_query
+how long will it take to get to the airport,transport_query
+what is the commute time to the theater,transport_query
+what is the traffic situation at the bazaar highway,transport_traffic
+can you tell me the times the train leaves for chicago,transport_query
+uber me to the airport,transport_taxi
+book train best deal,transport_ticket
+find a train ticket to philadelphia,transport_ticket
+purchase ticket to new york city on train,transport_ticket
+how do i get home from here,transport_query
+travel book a train ticket,transport_ticket
+what is the fastest way to get to starbucks,transport_query
+lead the way to the place,transport_query
+book me a train ticket to barcelona please,transport_ticket
+find me the cheapest train ticket to spain,transport_ticket
+i need a ride home,transport_taxi
+book me a cab going to location,transport_taxi
+please book me a taxi uber,transport_taxi
+when does the f. train run today,transport_query
+what time does the first metrolink arrive in the morning,transport_query
+how do i book a train ticket online,transport_query
+i need to get a ticket via train to orlando from hwood,transport_ticket
+i need to get a ticket via train to orlando from hwood,transport_ticket
+schedule taxi pickup for monday at noon,transport_taxi
+how much is a round trip train ticket to go to new york,transport_query
+do you have the train times for beaumont tx,transport_query
+what time does the first train depart from chicago,transport_query
+when is the next train leaving for austin,transport_query
+how is traffic in city,transport_traffic
+is traffic light,transport_traffic
+what is the traffic like right now,transport_traffic
+book a train ticket from here to charleston west virginia at eight am today,transport_ticket
+what does the traffic look like on my usual route to work,transport_traffic
+navigation search,transport_query
+call taxi,transport_taxi
+call an uberpool to get me at long island bar,transport_taxi
+what is the traffic like now,transport_traffic
+order a train ticket to boston,transport_ticket
+buy me a ticket to boston,transport_ticket
+find me a train ticket to boston,transport_ticket
+road traffic,transport_traffic
+book an uber to pick me up now,transport_taxi
+driving time to los angeles,transport_query
+reserve the closest uber,transport_taxi
+can you tell me about the traffic,transport_traffic
+train times from near me to location,transport_query
+where is the public library,transport_query
+book a ticket to ny by train,transport_ticket
+please book a ticket of rajdhani express train from jaipur,transport_ticket
+please book a ticket form jaipur to mumbai on tuesday,transport_ticket
+how do i get to the mall,transport_query
+how much is a train ticket to chicago,transport_query
+list all train times to ny,transport_query
+what time does the train to place leave,transport_query
+how is the traffic at the moment,transport_traffic
+take me to layfayette saint and canal,transport_query
+book a cab to office for me,transport_taxi
+please book train ticket from mumbai to sangli for tomorrow morning,transport_ticket
+show me direction to my home,transport_query
+directions please,transport_query
+what is the timing of bagmati express,transport_query
+traffic report,transport_traffic
+train ticket,transport_ticket
+train ticket please,transport_ticket
+book a train ticket weekend of the twenty sixth phoenix to los angeles,transport_ticket
+please reserve the next taxi a nine am,transport_taxi
+what time does the train arrive in sacremento,transport_query
+look up the map to stores near me,transport_query
+olly i need directions to madison street,transport_query
+what is the highest building in the world,qa_factoid
+define elaborate,qa_definition
+please define forensic,qa_definition
+what is the definition of forensic,qa_definition
+which is the highest peak in the world,qa_factoid
+what does turbulence mean,qa_definition
+check definition of capricious,qa_definition
+can you track my emotions based on the way i speak,general_quirky
+how old is mariah carey,qa_factoid
+look up the definition of blunder,qa_definition
+show me recipes,cooking_recipe
+what is the nearest pizza shop,recommendation_locations
+what is two hundred divided by ten,qa_maths
+what is the square root of nine,qa_maths
+i want sweet potato pie from a local bakery,lists_createoradd
+i want tickets to the sold out concert on saturday night,general_quirky
+explain quantum physics to me in language i understand,general_quirky
+can you create a sugar free diet for me and create a shopping list for the ingredients,general_quirky
+what are the definitions of orange,qa_definition
+why isn't adam sandler funny,qa_factoid
+what is robin williams birthday,qa_factoid
+tell me billy crytals address,qa_factoid
+drive the car and bring my friends over,general_quirky
+who was the current prime minister of britain,qa_factoid
+what is one plus one,qa_maths
+how much is one plus one,qa_maths
+what is the capital of nigeria,qa_factoid
+what is the factorial of ten,qa_maths
+how big is the cosmos,qa_factoid
+when is the birth date of taylor lautner,qa_factoid
+tell me all about hurricane,qa_definition
+can you cook something special for me and my wife,general_quirky
+do you know jessica snout's phone number,qa_factoid
+what does oscillate mean,qa_definition
+spell and define oscillate,qa_definition
+calculate two multiplied by two,qa_maths
+check celebrity where abouts,general_quirky
+remind me to move so there is no weight gain,calendar_set
+remind me to contact old friends that i have not talked with in six months before they pass,calendar_set
+check for all the movie theater prices and availability for a newly released movie in my location,recommendation_movies
+i need to talk to mom,general_quirky
+tell me how are the results of assembly elections in delhi going to come out,news_query
+what is the root of six hundred and twenty five,qa_maths
+i wish it could give me advice,general_quirky
+do you know math,qa_maths
+location,qa_definition
+what is the quickest way to my work downtown without hitting any traffic,transport_query
+what does priyanka chopra do to look beautiful,general_quirky
+where does kate middleton buy her kids clothes,general_quirky
+why does sofia vergara look so young,general_quirky
+what is the best chocolate chip cookies recipe,general_quirky
+what was george eliot's first november el,qa_factoid
+please give me information about john abraham lincon,qa_factoid
+how much money did bill gates make,qa_factoid
+what is the definition of the word perpetual,qa_definition
+who is celebrity,qa_factoid
+what does celebrity do,qa_factoid
+can you make dinner for me,general_quirky
+what's two plus two,qa_maths
+alexa i've got dollars for the month how much can i spend every day this month,qa_maths
+i want to know what supermarket near me has the best price on gluten free bread,recommendation_locations
+what size is a sperm whale,qa_factoid
+i would like it to be able to compute answer from search results like wolfram alpha does,general_quirky
+i want it to remember my preferences and recommend me things based on them when i ask,general_quirky
+i want it to be able to tell me statistics about things it's done for me like how often i've eaten out this month,general_quirky
+just idle chit chat,general_quirky
+i need to ask you how many angels can dance on a pinhead,general_quirky
+what is twelve plus one hundred and ninety six,qa_maths
+what is the definition of timeliness,qa_definition
+when will the world end,general_quirky
+what's the sum of the two numbers four and six,qa_maths
+what time are the hockey games tonight,general_quirky
+how many states have the death penalty,qa_factoid
+what's ten percent off forty dollars,qa_maths
+send a funny message to all of my friends,social_post
+what store is having sales tomorrow,general_quirky
+what causes osteoperosis,general_quirky
+show me the answer for this problem two hundred and forty six plus six hundred and fifty four,qa_maths
+what is four plus five,qa_maths
+how old is j. k. rowling,qa_factoid
+i would like my robot to feed and pet my dog when i'm not home,general_quirky
+tell me when i should leave for a scheduled event so that i am on time,calendar_set
+what is twelve divided by four,qa_maths
+tell me what the product of eighteen and thirty one is,qa_maths
+why are we here,general_quirky
+it would be great if can give you law consultations,general_quirky
+when was the us got freedom,qa_factoid
+can you show me a list of all my recent commands,general_quirky
+olly what is the capital of california,qa_factoid
+please give me the winning lottery numbers for this weekend,general_quirky
+give the definition of motivation,qa_definition
+can you tell me the time it is,datetime_query
+how many legs does a dog have,qa_factoid
+why are whales big,qa_factoid
+why is the earth round,general_quirky
+i would like it to help analyze ideas,general_quirky
+wanna netflix and chill,general_quirky
+what was the last movie will smith was in,qa_factoid
+where was will ferrell seen last night,general_quirky
+i'd like you to turn turn on the t. v.,iot_wemo_on
+what is six divided by two,qa_maths
+how tall is brad pitt,qa_factoid
+currency converter please,qa_currency
+when was last academy award winning movie,qa_factoid
+how tall is mount everest,qa_factoid
+what is the capitol of west virginia,qa_factoid
+where is new zealand located on a map,qa_factoid
+tell me where steve jobs was born,qa_factoid
+could you please confirm if leonardo is married,qa_factoid
+where do most celebrities hang out,qa_factoid
+tell me something i can do to help my community today,general_quirky
+are there any free events on in my area today,recommendation_events
+what is the largest desk,qa_definition
+where's the closest zoo to where i'm at,recommendation_locations
+what is arnold schwarzenegger's birthday,qa_factoid
+what is the increase in stock value over the past week of disney,qa_stock
+what are pounds worth right now,qa_currency
+can you tell me how many stomachs a cow has,qa_factoid
+how many plays has patrick stewart been in,qa_factoid
+what brand hair spray does donald trump use,qa_factoid
+what is the dollar price in inr,qa_currency
+has the dollar rate increased,qa_currency
+what is the most current exchange rate in china,qa_currency
+what is a chair,qa_definition
+what color are chairs,qa_factoid
+where is the prime meridian,qa_factoid
+biography of person,general_quirky
+what is an electronic emissions system,qa_definition
+describe a rotor,qa_definition
+what is a mango,qa_definition
+can you really see russia from alaska,qa_factoid
+list exchange rate information for the day for u. s. d. to jpy,qa_currency
+what is terranova stock going for,qa_stock
+what's the exchange rates between u. s. a. and china,qa_currency
+what's the currency exchange rate for china,qa_currency
+what's the currency exchange rate for china,qa_currency
+please pull up the wikipedia article on glass blowing,general_quirky
+tell me the current price of exxon mobil stock,qa_stock
+how old is marian carey,qa_factoid
+what's a parsec,qa_factoid
+how much wood could a woodchuck chuck if a woodchuck could chuck wood,general_quirky
+two by two is,qa_maths
+how far is california from georgia,qa_factoid
+can you describe a credit card,qa_definition
+is steph curry married,qa_factoid
+what is the exchange rate between us and mexico,qa_currency
+how many square miles is the average country on earth,qa_factoid
+what is the definition of subjegant,qa_definition
+what happened to the dow jones today,qa_stock
+how far away is the sun,qa_factoid
+what is the exchange rate for mexico money,qa_currency
+where on earth has the most volcanoes,qa_factoid
+when did elvis die,qa_factoid
+what are lady gagas most popular songs,music_query
+list me the stock of apple right now,qa_stock
+what is the definition of logic,qa_definition
+where is yosemite park,qa_factoid
+please google location and information of mount rushmore,qa_factoid
+how would you describe a happy birthday,qa_definition
+please give me information on michael jackson,qa_factoid
+what is the temperature in indianapolis indiana,qa_factoid
+can you tell me about wayne gretszky,qa_factoid
+from dollar to euro,qa_currency
+the definition of life,qa_definition
+define flabbergasted,qa_definition
+can you tell me what flabbergasted means,qa_definition
+what is the birthday of hemingway,qa_factoid
+how much is lebron james worth,qa_factoid
+tell me a place that has snow now,general_quirky
+how is the stock going in general,qa_stock
+what is the yen worth,qa_currency
+where is laos located,qa_factoid
+dollar rate at present,qa_currency
+suffering consequences,qa_definition
+consequences to actions,qa_definition
+top model car,general_quirky
+how much is the average house,qa_factoid
+describe a sloth,qa_definition
+tell me everything you know about sloths,qa_factoid
+what is dolly parton's birthday,qa_factoid
+what are the coordinates of the equator,qa_factoid
+describe hell,qa_definition
+one plus two equal,qa_maths
+if a pencil cost four dollars and a book ten dollars cost how much i should pay if i buy two pencil and three book,qa_maths
+what is the us dollar and euro exchange rate,qa_currency
+tell me when obama was born,qa_factoid
+what is the location of moldova,qa_factoid
+how tall is hulk hogan,qa_factoid
+what is the exchange rates in this region,qa_currency
+what year did george clooney start acting,qa_factoid
+what was elvis presley's birthday,qa_factoid
+tell me what i wore yesterday,general_quirky
+one dolla equals how much inr,qa_currency
+where jackie chan currently live,qa_factoid
+facebook current stock rate,qa_stock
+where are the rocky mountains,qa_factoid
+what's jlo up to,general_quirky
+give details of rock sand,qa_definition
+describe rock sand,qa_definition
+where are pyramids located,qa_factoid
+show geographic details of pyramids,qa_factoid
+show bio of rihana,qa_factoid
+what is googs current price,qa_stock
+please tell me what is the definition of cylinder,qa_definition
+how much is the british pound,qa_currency
+define blanket,qa_definition
+what are converse shoes,qa_definition
+what kinds of sunglasses are considered aviators,qa_factoid
+africa info,qa_factoid
+search the locality,qa_factoid
+where did amal clooney go to college,qa_factoid
+does kim kardashian wear converse,qa_factoid
+how far is canada from my current location,qa_factoid
+what is the price of starbuck's stock,qa_stock
+how much is starbuck's stock these days,qa_stock
+find the ways of travel for the same,transport_query
+answer for three times four,qa_maths
+how much is the us dollar worth in canada,qa_currency
+what movies has emma watson acted in,qa_factoid
+how much is the us dollar versus the pound,qa_currency
+how much is the euro worth versus u. s. dollar,qa_currency
+details on person,qa_factoid
+how can you get basalt,general_quirky
+how much is amazon stock,qa_stock
+can you do nine plus two,qa_maths
+hey what's a book,qa_definition
+tell me about jaipur,qa_factoid
+what's the rate between pesos and yen,qa_currency
+explain the geographical location of india,qa_factoid
+what is leonardo dicaprio's networth,qa_factoid
+is this the least or most important moment in history ever,general_quirky
+how large is alaska,qa_factoid
+what is the size of the united states,qa_factoid
+what color is a dragon fruit,qa_factoid
+where was steve jobs born,qa_factoid
+tell me about economy and g. d. p. about india versus china,general_quirky
+what is the stock price of hdfc,qa_stock
+what is a hypothesis,qa_definition
+google what are the basic things humans need,general_quirky
+what's the answer to the universe,qa_factoid
+can many seashells did sally sell by the seashore,qa_factoid
+i think i can travel the whole world in a day,general_quirky
+will there be a world war four,general_quirky
+how much will be the world population after twenty years,general_quirky
+tell me the profession of celebrity,qa_factoid
+definition of velocity,qa_definition
+how big is the empire state building,qa_factoid
+what is the deepest point on earth,qa_factoid
+give the stock price details of motorolla,qa_stock
+describe the new football game rules,general_quirky
+describe about the computer hard disk,qa_definition
+which ocean touches at our continent,qa_factoid
+what does obama do in his day to day life,general_quirky
+is angeline having a new movie this year,qa_factoid
+what is a caftan,qa_definition
+find exchange rate for u. s. d. to pound,qa_currency
+what is the capital of mexico,qa_factoid
+where is fiji,qa_factoid
+what was the first movie of morgan freeman,qa_factoid
+does pink have a new baby,qa_factoid
+exchange rate of euro with dollar,qa_currency
+find route,qa_factoid
+features of google pixel,general_quirky
+directions to disney land,transport_query
+open stock price for name,qa_stock
+detail for stock price,qa_stock
+can we go to sun,general_quirky
+when was the bolshoi theater constructed,qa_factoid
+give me the description about smartphone,qa_definition
+olly how many meetings did mahatma gandhi undertake,qa_factoid
+who is the current prime minister of russia,qa_factoid
+please summarize the latest george r. r. martin ice and fire book,qa_factoid
+where did mahatma gandhi born,qa_factoid
+what is price of dollar,qa_currency
+notify me when g. b. p. to u. s. d. rate as i expected,qa_currency
+find geographic details of this place,qa_factoid
+please find out the share price of microsoft in nasdaq,qa_stock
+tell me about india location,qa_factoid
+make a list about selena gomez concert schedule,lists_createoradd
+tell me if global warming is true,general_quirky
+let me know up and down in stock price of this company stock,qa_stock
+explain how is u. s. a. better than other countries,general_quirky
+what is the largest active volcano on earth,qa_factoid
+how long will it take to travel to japan from south korea,qa_factoid
+give me the description of a television circuit,qa_definition
+give me the description of a smartphone circuit,qa_definition
+what is the population of new york,qa_factoid
+currency exchange,qa_currency
+for how many years was abraham lincoln president of united states,qa_factoid
+did angelina jolie leave brad pitt,qa_factoid
+what new movie is jennifer lawrence working on,qa_factoid
+divide two hundred by four,qa_maths
+foreign exchange rates,qa_currency
+describe what a sphere is,qa_definition
+stock price,qa_stock
+tell me about the cheapest flight fares to nj today,transport_ticket
+recipe please,cooking_recipe
+what is the population of russia,qa_factoid
+what is the exchange rate of euro and dollar,qa_currency
+what is the birth year of barack obama,qa_factoid
+describe item xy,qa_definition
+can you tell me about animal kingdom in amazon forest,general_quirky
+what is the hobby of ajay devgn,qa_factoid
+who is the prime minister of russia,qa_factoid
+ok google what is a president,qa_definition
+what exactly is a resin tooth filling,qa_definition
+describe the heart stone card game,qa_definition
+ok google where does sophia vergara live,qa_factoid
+where does sophia vergara live,qa_factoid
+what's euro u. s. d. right now,qa_currency
+what's the capital of kazakhstan,qa_factoid
+divide seventy six in two parts,qa_maths
+give me the definition for the word pontificate,qa_definition
+dollar to euro exchange rate,qa_currency
+how much is the dollar worth compared to the euro,qa_currency
+how would you describe a ball,qa_definition
+tell me the largest ocean in the world,qa_factoid
+what is the difference between roman and grigorean calendar,qa_factoid
+what is the make up of the chair,qa_factoid
+where is a walking trail near me,recommendation_locations
+what is elvis favorite ride,qa_factoid
+his hardword is properly quead,general_quirky
+more stock price,qa_stock
+to compare in people,qa_factoid
+what is a neutral density filter and would i want a gradient one or a solid one also which would be better in style between the screw on one and the square ones,qa_factoid
+could you explain the meaning of exorbitant for me please,qa_definition
+what is the exchange rate with in one british pound,qa_currency
+check stock price for dinky donuts,qa_stock
+what are the climatic conditions in that area,qa_factoid
+meaning of,qa_definition
+what is the least tornado prone state in the entire us,qa_factoid
+please describe that object for me,qa_definition
+in which field does that person excel in,qa_factoid
+were the stocks rising or declining,qa_stock
+where was president madison born,qa_factoid
+when's mark lanegan's next album out,qa_factoid
+how have megatel shares done last week,qa_stock
+did the price of walmart stock go up or down,qa_stock
+how much would it cost to buy stock in apple,qa_stock
+let me know about the exchange rate of rupee to dirham,qa_currency
+tell me the info about india's geography,qa_factoid
+i need some details about bruce lee please assist,qa_factoid
+look up,general_quirky
+internet please,general_quirky
+how do i figure women out,general_quirky
+what is the prevailing exchange rate us versus indian rupees,qa_currency
+iphone seven description,qa_definition
+what is denzel washington's next movie,qa_factoid
+what does situation mean,qa_definition
+how much is one american dollars worth in england,qa_currency
+how old is clint eastwood,qa_factoid
+how much is one dollar in pounds,qa_currency
+olly where do the rocky mountains start,qa_factoid
+which pole is colder south or north,qa_factoid
+how old is emma watson newest boyfriend,qa_factoid
+info on lisa ann please,qa_factoid
+olly where did the first americans settle,qa_factoid
+find a description about a samsung t. v.,qa_definition
+look up the number of people living in miami florida,qa_factoid
+what region is miami located,qa_factoid
+siri please check exchange rates,qa_currency
+what is the geology of this location,general_quirky
+how many euros can i get for one dollar,qa_currency
+define speaker,qa_definition
+how is i. b. m. doing,qa_stock
+become a helicopter,general_quirky
+check my social networks,social_query
+can you upload my latest selfie in my facebook account,social_post
+post my business on twitter,social_post
+please retweet this post on twitter,social_post
+do i have any new friend requests,social_query
+birthday wishes,social_post
+wedding wishes,social_post
+share in friends post,social_post
+post in twitter my visit to japan,social_post
+what going on,social_query
+get me latest updates from facebook,social_query
+new updates,social_query
+give me my facebook update every three hours,social_query
+post hey everyone on facebook,social_post
+what is the trending now,news_query
+what is the news today,news_query
+tweet something for me,social_post
+show me latest notifications,social_query
+is there any post from my friend mike in facebook,social_query
+my trip to goa photo post it on instagram,social_post
+did anyone like my photo i just posted,social_query
+post this to my facebook l. o. l.,social_post
+please scan my social media and tell me what's happening,social_query
+post i am happy to facebook,social_post
+post a new status on facebook saying that i am enjoying the nice weather,social_post
+facebook,social_query
+post the message now,social_post
+read me new post on my feed,social_query
+olly what's hot social media topics,social_query
+has anyone follow me today on twitter today,social_query
+do i have any notifications from social media,calendar_query
+tell me what's going on with facebook,social_query
+i want to thank everyone for the birthday wishes,social_post
+has anyone commented on my status,social_query
+please read my facebook feed,social_query
+anything new on insta,social_query
+post this video to facebook,social_post
+please check the trending topics on twitter,social_query
+who is doing facebook live right now,social_query
+i'm unhappy with tesco please help me,social_post
+olly tweet apple that the iphone doesn't work,social_post
+open tweet to apple that my iphone's battery is always drained,social_post
+can you let amazon know that this new phone case is junk,social_post
+can you contact samsung and say my washer is on fire,social_post
+tweet my current location,social_post
+forward a complaint to aircel for network related issues,social_post
+open twitter send message,social_post
+tweet that product sucks,social_post
+open twitter type my complaint and post to at consumer service,social_post
+get me a person a. s. a. p.,social_post
+two thumbs down at companyname,social_post
+tell me what's happening on instagram,social_query
+send a tweet about sonys volume issues,social_post
+tweet at united airlines i'm angry you lost my bags,social_post
+i want to send a tweet to united airlines i'm angry you lost my bags,social_post
+i had a problem with my burger can you tweet bk,social_post
+send a twitter complaint,social_post
+i didn't get the product on time send a tweet to jcpenney,social_post
+tell comcast i hate them,social_post
+tweet a complaint for the online bookstore,social_post
+tweet kohls about the cleanliness of their store,social_post
+please tweet at pizzahut i've been waiting for my delivery for now number nothappy,social_post
+new tweet to consumer service,social_post
+siri open twitter tweet at potus sucks,social_post
+show me my latest social media activity,social_query
+is there anything important happening on social media,social_query
+send complaint via tweet to j. crew,social_post
+olly tweet walmart and tell them their customer service is horrible,social_post
+tweet about cold pizza to papa johns,social_post
+tweet mobile complaint to samsung,social_post
+please negative response tweet on daikin service,social_post
+please tweet on dell service for delay services,social_post
+let's tweet a complaint,social_post
+i need you to tweet a complaint,social_post
+post to facebook i'm hungry,social_post
+please look in to the matter,general_quirky
+clear out the problem,general_quirky
+can you let delta know i'm never using them again,social_post
+open gallery post picture name,social_post
+tweet complain at comcast,social_post
+tweet complain at comcast,social_post
+open company name and find complaints,social_post
+post a tweet as follows very bad follow up by a. b. c. company not satisfied in my account,social_post
+tweet esurance and tell them they suck,social_post
+please tweet a complaint to comcast for bad customer service,social_post
+ok google tweet what a jerk the owner is at the gas station,social_post
+tweet mcdonald's down reseda has terrible service,social_post
+tweet complaint to at,social_post
+send report to consumer service,social_post
+help complaint to consumer service,social_post
+tweet to google costumer service my new nexus phone stop working help please,social_post
+tweet a message to suqcom that i am still waiting for my delivery,social_post
+post my latest entry to twitter at n.s.a.,social_post
+send a complaint tweet,social_post
+tweet to apple about non receipt of iphone i sent for repairs last week,social_post
+please add complaint about the service in tweet to olive garden,social_post
+hello my item which i bought from some one has gone out of order,social_post
+tweet that there was an insect in the chocolate packet,social_post
+expired products in recent market,social_post
+twitter to destination x. l. that they run out of sizes too fast,social_post
+tweet at,social_post
+lets send a tweet,social_post
+post complaint about service a,social_post
+tweet a disgusted face about mcdonalds,social_post
+set feeling happy status on facebook,social_post
+olly tweet a message to a. t. & t. and tell them my service is bad,social_post
+tweet samsung and tell them to stop killing people with their products,social_post
+submit a negative review about a company,social_post
+add this person's email,email_addcontact
+please email my team,email_sendemail
+please check for new emails,email_query
+answer to pawel's email,email_sendemail
+tell me if i have new emails,email_query
+is there anything new in my mailbox,email_query
+olly do i have any new emails,email_query
+who am i meeting today,calendar_query
+where seth lives,email_querycontact
+email chelsea,email_sendemail
+reply an email to jason that i will not come tonight,email_sendemail
+has robert emails me yet,email_query
+what is a work phone number of emilia,email_querycontact
+reply to dad write i will be late,email_sendemail
+here is a new email address to be added to the contacts,email_sendemail
+go to contacts and enter a new email address,email_sendemail
+topic,email_query
+compose a new email to ray,email_sendemail
+how its come to us,email_sendemail
+how we can get credit,email_sendemail
+send an email to my boss,email_sendemail
+please send to new email address listed,email_sendemail
+check email for received from mom,email_query
+please check my mails,email_query
+check to see if i have any new emails from my dad,email_query
+check my new emails and tell me what are they about,email_query
+reply thank you to john,email_sendemail
+prepare email for susan,email_sendemail
+what new emails do i have,email_query
+send this email to reply to the latest emails,email_sendemail
+find john smith in contacts,email_querycontact
+open contacts and call john smith,email_querycontact
+respond to the email from john doe,email_sendemail
+email alice to let her know we are on the way,email_sendemail
+do i have any new emails from kellogg,email_query
+send a reply if it is very important,email_query
+if it is from a very familiar place mark it as important,email_query
+what was the subject of the last email from mom,email_query
+what was the last email from work,email_query
+give me petey's telephone number,email_querycontact
+what is the email address for tessa,email_querycontact
+add this new email with contact,email_addcontact
+send an email to john asking him what time works for the meeting,email_sendemail
+email karen about the budget meeting,email_sendemail
+check my emails for something from name,email_query
+check for new email,email_query
+send email to joseph at gmail dot com,email_sendemail
+tell me if i have any new messages in my inbox,email_query
+send an email to rohit saying i am busy tomorrow,email_sendemail
+hey siri start an email to coworker,email_sendemail
+please compose a new email to coworker,email_sendemail
+please send an email to sally regarding tomorrows meeting,email_sendemail
+hey has john sent me any email lately,email_query
+send mail to ismail for office opening time table,email_sendemail
+show me recent emails,email_query
+i want to send an email to my family do you help me,email_sendemail
+check gmail,email_query
+check outlook,email_query
+reply to email,email_sendemail
+have i received any emails in the last ten minutes,email_query
+email my boss that i will be late today because of an emergency and apologize to him for missing the meeting,email_sendemail
+display recent email from john,email_query
+send an email to peter and ask him how is he now can i do something to help him,email_sendemail
+have i received new emails in the last ten minutes,email_query
+has amy sent me any new emails,email_query
+check unread emails from amy,email_query
+please check email contain job listing,email_query
+send an email to my brother and say wedding anniversary,email_sendemail
+help is to be sent only to jane,email_sendemail
+this new email should be added to my contact,email_sendemail
+show me the most recent emails,email_query
+give me the latest updates,news_query
+quick reply to jack so please send a mail,email_sendemail
+check meeting schedule in todays mail,email_query
+remember this email,email_addcontact
+send reply,email_sendemail
+who mailed me yesterday,email_query
+did charlotte responded,email_query
+can you reply to charlotte that i am going to be busy with the projects for next three weeks,email_sendemail
+have any emails arrived in the last fifteen minutes,email_query
+open inbox to check unread mails,email_query
+any mail from amazon today,email_query
+check email about my job,email_query
+please load new email for bruce and send message now,email_sendemail
+pull up kate's email and write that i will let her know,email_sendemail
+tell me about mary s.,email_querycontact
+open contacts,email_addcontact
+is it anyone i knows birthday this month,email_querycontact
+which contact haven't i called in twelve months,email_querycontact
+send email to joe at a. o. l. dot com,email_sendemail
+please check my mail,email_query
+did i receive any new email from robert,email_query
+write an email to my family saying i love you all,email_sendemail
+refresh my inbox and inform me about new emails,email_query
+how do i reach sarah,email_querycontact
+initiate polling for new email,email_query
+do i have new emails,email_query
+please send an email to cassy who is there on my family and friend list,email_sendemail
+send an email to my assistant clara to cancel all appointments for tomorrow,email_sendemail
+send an email to mom to tell her wyatt's birthday party is on sunday,email_sendemail
+send an email to jake to tell him thank you,email_sendemail
+send an email to margaret,email_sendemail
+did i get new emails from sarah,email_query
+respond to email,email_sendemail
+i want to reply to bob smith's email,email_sendemail
+check for emails from steve,email_query
+check for emails from my employer,email_query
+did i email tom on the subject of gun control,email_query
+has tom emailed me about ammunition,email_query
+do i have any new emails in the last hour,email_query
+have i received any emails with tracking numbers,email_query
+compose an email to bob,email_sendemail
+alexa please send an email to mom,email_sendemail
+send mom an email now,email_sendemail
+hey do i have any new emails,email_query
+please read new emails,email_query
+please send the email to jeff,email_sendemail
+have i gotten any new email,email_query
+text an email to donna hey what are you doing today,email_sendemail
+email donna plans for today,email_sendemail
+alexa start email,email_sendemail
+compose email,email_sendemail
+show all emails sent to me from my boss,email_query
+please send an email to uncle john with the following yes i can make it,email_sendemail
+how many new emails have i received today,email_query
+please send mom and dad an email asking how they are,email_sendemail
+please sent this email to my friend,email_sendemail
+i need this email sent now,email_sendemail
+please check for recent emailstudy from this sender,email_query
+add new email to my contacts macs at gmail dot com,email_addcontact
+new message to newmail at gmail dot com,email_sendemail
+do i have any unread emails,email_query
+do i have any new emails from my contact q.,email_query
+please add this email to my contacts,email_addcontact
+check emails from john,email_query
+send a replay email,email_sendemail
+please send a mail to my friend divya how are you,email_sendemail
+add new email address and send email,email_sendemail
+add a new email for julie smith,email_sendemail
+i need to add a new email to my contacts,email_sendemail
+can you tell me the contact information of jo,email_querycontact
+check mom's number,email_querycontact
+make a call to,email_querycontact
+can you write an email to chelsea,email_sendemail
+send a reply to mike with the answer four hundred and thirty from his email he sent this morning,email_sendemail
+respond to my bosses email with the word that i will be in at four in the evening,email_sendemail
+olly check my email,email_query
+does my company worker have a home phone number,email_querycontact
+who is the contact that last called me,email_querycontact
+i just got an email from bill i need to answer it right now,email_sendemail
+that last email needs to be answer a. s. a. p.,email_sendemail
+what does the email say that was sent thirty minutes ago from mom,email_query
+write and send email to my boss,email_sendemail
+tell me if i have any unread new emails,email_query
+send email to boss saying i will be late,email_sendemail
+send an email to this contact,email_sendemail
+i need an email to be sent to comcastcom about my service issues,email_sendemail
+check most current emails,email_query
+send a reply to the last email,email_sendemail
+check mail for anything from shelly,email_query
+please check my emails for me,email_query
+did ben's email have an attachment,email_query
+did i receive any new emails from dan,email_query
+do i have any incoming emails,email_query
+have any emails come in since four hundred today,email_query
+did i get an email from paul,email_query
+has ben got in touch,email_query
+do i have any new emails in my inbox today,email_query
+add lowes hardware to my contact emails located in cleveland ohio,email_addcontact
+locate the email to giant eagle and put it into my contact list,email_addcontact
+write a reply to my mother's email,email_sendemail
+i would like to reply to sarah's email,email_sendemail
+i would like to reply to the most recent email,email_sendemail
+how many of my contacts live or work in detroit,email_querycontact
+are my contacts mostly female or male,email_querycontact
+do i have any new email,email_query
+please check my emails and notify me if exists any new email,email_query
+could you please email john saying i'm on leave,email_sendemail
+let me know any new emails i've received,email_query
+respond to my email from bob letting them know i'll see them tomorrow,email_sendemail
+please check new email from andy,email_query
+show me the latest emails from amazon,email_query
+are their any new emails for me today,email_query
+dictate email,email_sendemail
+any new email since last time,email_query
+emails in the last ten minutes,email_query
+what is the interview time from yesterday's email,email_query
+check new email,email_query
+show all emails regarding the breach,email_query
+show john's contact information,email_querycontact
+send an email to juanpedro at gmail dot com,email_sendemail
+add this email address to my contacts and send an email to,email_addcontact
+compose a new email but i got a new address this time brandon at example dot com,email_sendemail
+what is mr. taxi's phone number it is in my contacts,email_querycontact
+have i received any emails since noon,email_query
+has cassie sent me any emails about tom,email_query
+beep when i get an email from john,email_query
+check emails,email_query
+can you send the email to the new email id,email_sendemail
+please add an email for john doe to my contacts johndoe at yahoo dot com,email_addcontact
+email notifications,email_query
+what did i tell susan in my last email,email_query
+find naty from my contacts and send her an email,email_sendemail
+email naty for her birthday,email_sendemail
+how many phone numbers do i have for brenden,email_querycontact
+email jerry regarding the meeting,email_sendemail
+send an email to jerry ask what time will he be home tonight,email_sendemail
+reply this mail,email_sendemail
+what about new mail,email_query
+what new email says,email_query
+send john smith and email,email_sendemail
+start and email to john smith,email_sendemail
+have i received any emails from jeffrey burnette,email_query
+jay's phone number,email_querycontact
+please place my new email address to the contact,email_addcontact
+do i have emails from this sender,email_query
+hey reply a mail which i received,email_sendemail
+please check my gmail for new mail,email_query
+show latest email,email_query
+reply to johns email,email_sendemail
+send an email to grandma saying we are dropping by on saturday see you then,email_sendemail
+reply email,email_sendemail
+email to new contact,email_sendemail
+send email to new contact,email_sendemail
+respond with,email_sendemail
+please check all new email of income tax department,email_query
+please find a contact number of jayesh and tell me,email_querycontact
+do we have morgan's office's number,email_querycontact
+any new email from john,email_query
+please say to the email that sent me george i need the money now it's urgent,email_sendemail
+has jane doe emailed me,email_query
+send email to jessica,email_sendemail
+please check for new email,email_query
+can you send an email to,email_sendemail
+start reply,email_sendemail
+compose a reply to last email,email_sendemail
+reply to last received email,email_sendemail
+email mom and ask how the weather is there,email_sendemail
+write an email for john at gmail dot com,email_sendemail
+send email to tim at hotmail dot com,email_sendemail
+get me new email,email_query
+search nandy,email_query
+just add a new email in my contacts from michael,email_addcontact
+are there any new emails in outlook,email_query
+are there any new emails received after four o'clock today,email_query
+create an email for my company worker with my recently saved documents,email_sendemail
+check for me new emails received from sara,email_query
+contacts please,email_querycontact
+what's leon's email,email_querycontact
+show me any emails received in the last hour,email_query
+check new emails,email_query
+give me my latest email,email_query
+contact detail of paul,email_querycontact
+create email to yulia,email_sendemail
+read list of new emails,email_query
+display list of recent emails,email_query
+check any mail from amazon,email_query
+email form for regional v. p.,email_sendemail
+any lighting news emails,email_query
+please read my new mails,email_query
+please archive my read messages,email_query
+what's in my inbox since we last looked,email_query
+hey send email to john,email_sendemail
+hey check email,email_query
+reply to the mail with the following content hello you,email_sendemail
+alexa reply to the mail with the following content hello you,email_sendemail
+my friend john has sent me a invitation card to his newly bought home say thanks to him in his mail id,email_sendemail
+check my email for any new email from joe,email_query
+do i have any new email from joe,email_query
+notify me when joshua emails me,email_query
+has john sent me an email,email_query
